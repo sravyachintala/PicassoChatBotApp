@@ -17,12 +17,12 @@ cd <folder-name>
 ```
 yarn or npm install
 ```
-To Run Front-End
-Navigate to Picasso-UI
+
+To Run Front-End Navigate to Picasso-UI
 ```
 Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
 ```
-To Run API
-
+To Run API Navigate to Picasso-API
+```
 Double click on app.py
 ```
