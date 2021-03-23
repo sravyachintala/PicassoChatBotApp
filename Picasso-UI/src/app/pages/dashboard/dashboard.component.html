@@ -1,0 +1,105 @@
+<div class="dashboard">
+  <div class="fullChat" *ngIf="!closeFull">
+    <img class="backgroundBotFull" src="../../../assets/images/bot-background.png" alt="bg">
+    <div class="aboveImgFull">
+      <div class="cardFull">
+        <div>
+          <img class="chat-img" src="../../../assets/images/bot.jpg" />
+          <div class="helloTxtFull">
+            <div>I am Picasso!!</div>
+            <small>I can give you smart analytics</small>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="suggestionsBox" *ngIf="showSuggest">
+      <mat-card style="width: fit-content;">
+        <div>Ask me!!</div>
+        <div class="suggestions">
+          <small class="youFull" *ngFor="let suggest of staticJson" (click)="sendQuery(suggest)">{{suggest}}</small>
+        </div>
+      </mat-card>
+    </div>
+    <div class="textBoxFull">
+      <button mat-ripple class="expand" *ngIf="!showSuggest" (click)="showSuggestions()">
+        <img class="expansion" src="../../../assets/images/up-arrow.svg" alt="up"></button>
+      <button mat-ripple class="expand" *ngIf="showSuggest" (click)="showSuggestions()">
+        <img class="expansion" src="../../../assets/images/arrow-down-sign-to-navigate.svg" alt="down"></button>
+      <div class="chatInputFull"><input type="text" placeholder="Ask me......." [formControl]="queryControl"></div>
+      <button type="submit" mat-mini-fab color="primary" aria-label="Send Icon" (click)="sendQuery()">
+        <mat-icon>send</mat-icon>
+      </button>
+    </div>
+  </div>
+  <div class="fullAnalytics" *ngIf="closeFull">
+    <div class="halfChat">
+      <img class="backgroundBotHalf" src="../../../assets/images/bot-background-half.png" alt="bg">
+      <div class="aboveImgHalf" id="scollTobottom">
+        <div class="cardHalf">
+          <div>
+            <img class="chat-img-half" src="../../../assets/images/bot.jpg" />
+            <div class="helloTxtHalf">
+              <div>I am Picasso!!</div>
+              <small>I can give you smart analytics</small>
+            </div>
+          </div>
+        </div>
+        <div *ngFor="let chat of chatHistory">
+          <div *ngIf="chat.user == 'you'" style="width: 100%; min-height: 62px;">
+            <div class="helloTxtHalfmessage{{chat.user}}">
+              <div  class="{{chat.user}}">
+                <div class="helloTxtHalfmessage">
+                  {{chat.message}}
+                </div>
+                <img class="chat-img-half" src="../../../assets/images/person.png" />
+              </div>
+            </div>
+          </div>
+          <div *ngIf="chat.user == 'bot'" style="width: 100%; min-height: 62px;">
+            <div class="helloTxtHalfmessage{{chat.user}}">
+              <div  class="{{chat.user}}">
+                <img class="chat-img-half" src="../../../assets/images/bot.jpg" />
+                <div class="helloTxtHalfmessage">
+                  <div *ngFor="let mes of chat.message">{{mes.key}} : {{mes.value}}</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="suggestionsBoxHalf" *ngIf="showSuggest">
+        <mat-card>
+          <div>Ask me!!</div>
+          <div class="suggestions">
+            <small class="youHalf" *ngFor="let suggest of staticJson" (click)="sendQuery(suggest)">{{suggest}}</small>
+          </div>
+        </mat-card>
+      </div>
+      <div class="textBoxHalf">
+        <button mat-ripple class="expand" *ngIf="!showSuggest" (click)="showSuggestions()">
+          <img class="expansion" src="../../../assets/images/up-arrow.svg" alt="up"></button>
+        <button mat-ripple class="expand" *ngIf="showSuggest" (click)="showSuggestions()">
+          <img class="expansion" src="../../../assets/images/arrow-down-sign-to-navigate.svg" alt="down"></button>
+        <div class="chatInputHalf"><input type="text" placeholder="Ask me......." [formControl]="queryControl"></div>
+        <button type="submit" mat-mini-fab color="primary" aria-label="Example icon button with a delete icon"
+          (click)="sendQuery()">
+          <mat-icon>send</mat-icon>
+        </button>
+      </div>
+    </div>
+    <div class="analytics">
+      <div *ngFor="let data of qureyResponse">
+        <mat-card *ngIf="data.type!='numeric_value'" class="graph">
+          <app-dashboard-items [Title]="data.value.header" [Type]="data.type" [Data]="data.value.data">
+          </app-dashboard-items>
+        </mat-card>
+        <mat-card *ngIf="data.type=='numeric_value'" class="graph">
+          <div class="numericInternal">
+            <app-dashboard-items [Type]="data.type" [Data]="data.value">
+            </app-dashboard-items>
+          </div>
+        </mat-card>
+      </div>
+    </div>
+  </div>
+</div>

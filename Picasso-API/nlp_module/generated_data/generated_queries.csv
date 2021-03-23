@@ -1,0 +1,1001 @@
+Queries,Task,Category,Sub_Category,Customer
+display Net sales  Sauces in Week Week41?,Net sales,Sauces,NA,NA
+get Revenue  Grated in Year 2019?,Revenue,NA,Grated,NA
+get Net sales  Target in Week Week9?,Net sales,NA,NA,Target
+get Revenue  Cheese in Year 2019?,Revenue,Cheese,NA,NA
+get Gross Sales  Bacon in Quarter Q4?,Gross Sales,NA,Bacon,NA
+get Bottom Line  Albertsons/Safeway in Month Jan to Nov?,Bottom Line,NA,NA,Albertsons/Safeway
+display Max Shipment  Sauces in Year 2019?,Max Shipment,Sauces,NA,NA
+get Gross Sales  Breakfast in Year 2019?,Gross Sales,Breakfast,NA,NA
+display Max Shipment  Albertsons/Safeway in Quarter Q3?,Max Shipment,NA,NA,Albertsons/Safeway
+get Top Line  Candy in Year 2019?,Top Line,Candy,NA,NA
+get Gross Sales  Caramels in Quarter Q3?,Gross Sales,NA,Caramels,NA
+get Gross Sales  Cold Cuts in Quarter Q2 to Q4?,Gross Sales,NA,Cold Cuts,NA
+fetch Count  Breakfast in Year 2019?,Count,Breakfast,NA,NA
+display Top Line  Ketchup in Month Mar to Dec?,Top Line,NA,Ketchup,NA
+fetch Count  Cheese in Week Week23?,Count,Cheese,NA,NA
+get Top Line  Cold Cuts in Week Week11 to Week30?,Top Line,NA,Cold Cuts,NA
+display Gross Sales  Cheese in Quarter Q1?,Gross Sales,Cheese,NA,NA
+display Net sales  Hard in Year 2019?,Net sales,NA,Hard,NA
+get Net sales  Meats in Year 2019?,Net sales,Meats,NA,NA
+get Top Line  Chocolate in Quarter Q2 to Q4?,Top Line,NA,Chocolate,NA
+fetch Top Line  Cold Cuts in Week Week20?,Top Line,NA,Cold Cuts,NA
+display Top Line  Cold Cuts in Quarter Q2 to Q4?,Top Line,NA,Cold Cuts,NA
+generate Revenue  Breakfast in Year 2019?,Revenue,Breakfast,NA,NA
+display Net sales  Aldi in Month Jan to Sep?,Net sales,NA,NA,Aldi
+display Max Shipment  Breakfast in Year 2019?,Max Shipment,Breakfast,NA,NA
+get Max Shipment  Shelf Stable in Year 2019?,Max Shipment,NA,Shelf Stable,NA
+display Net sales  Dollar General in Quarter Q3?,Net sales,NA,NA,Dollar General
+generate Revenue  Breakfast in Quarter Q2 to Q4?,Revenue,Breakfast,NA,NA
+fetch Top Line  Albertsons/Safeway in Quarter Q3?,Top Line,NA,NA,Albertsons/Safeway
+get Max Shipment  Meats in Month Feb to Nov?,Max Shipment,Meats,NA,NA
+display Net sales  Dollar General in Quarter Q1?,Net sales,NA,NA,Dollar General
+get Top Line  Creamers in Quarter Q2 to Q4?,Top Line,NA,Creamers,NA
+generate Revenue  Breakfast in Quarter Q2?,Revenue,Breakfast,NA,NA
+generate Count  Shelf Stable in Year 2019?,Count,NA,Shelf Stable,NA
+get Gross Sales  Breakfast in Month May?,Gross Sales,Breakfast,NA,NA
+get Top Line  Caramels in Week Week6 to Week35?,Top Line,NA,Caramels,NA
+display Net sales  Target in Month Nov?,Net sales,NA,NA,Target
+generate Max Shipment  Ketchup in Week Week7 to Week28?,Max Shipment,NA,Ketchup,NA
+fetch Net sales  Kroger in Week Week2?,Net sales,NA,NA,Kroger
+generate Top Line  Mayonaise in Quarter Q1 to Q4?,Top Line,NA,Mayonaise,NA
+get Count  Meats in Week Week8?,Count,Meats,NA,NA
+fetch Count  Meats in Week Week4 to Week30?,Count,Meats,NA,NA
+display Top Line  Specialty Meats in Month Aug?,Top Line,NA,Specialty Meats,NA
+generate Revenue  Kroger in Month May to Dec?,Revenue,NA,NA,Kroger
+display Gross Sales  Breakfast in Year 2019?,Gross Sales,Breakfast,NA,NA
+fetch Gross Sales  UNIFI in Week Week24 to Week49?,Gross Sales,NA,NA,UNIFI
+display Max Shipment  Cheese in Month Jun?,Max Shipment,Cheese,NA,NA
+fetch Gross Sales  Natural Cheese in Year 2019?,Gross Sales,NA,Natural Cheese,NA
+generate Top Line  Chocolate in Quarter Q4?,Top Line,NA,Chocolate,NA
+display Net sales  Sauces in Week Week1 to Week30?,Net sales,Sauces,NA,NA
+generate Bottom Line  Kroger in Quarter Q1?,Bottom Line,NA,NA,Kroger
+display Count  Processed Cheese in Month Jun to Oct?,Count,NA,Processed Cheese,NA
+generate Top Line  Shelf Stable in Month Sep?,Top Line,NA,Shelf Stable,NA
+generate Bottom Line  Costco in Week Week5 to Week30?,Bottom Line,NA,NA,Costco
+fetch Net sales  Creamers in Month May?,Net sales,NA,Creamers,NA
+fetch Max Shipment  Shelf Stable in Quarter Q1 to Q4?,Max Shipment,NA,Shelf Stable,NA
+generate Bottom Line  Breakfast in Week Week9?,Bottom Line,Breakfast,NA,NA
+get Count  Juice in Year 2019?,Count,NA,Juice,NA
+generate Net sales  Bars/Snacks in Quarter Q4?,Net sales,NA,Bars/Snacks,NA
+fetch Revenue  Processed Cheese in Month Feb to Aug?,Revenue,NA,Processed Cheese,NA
+get Gross Sales  Albertsons/Safeway in Year 2019?,Gross Sales,NA,NA,Albertsons/Safeway
+get Max Shipment  All others in Quarter Q1 to Q4?,Max Shipment,NA,All others,NA
+display Bottom Line  Cheese in Quarter Q3?,Bottom Line,Cheese,NA,NA
+get Top Line  Caramels in Year 2019?,Top Line,NA,Caramels,NA
+display Revenue  Mayonaise in Week Week3?,Revenue,NA,Mayonaise,NA
+get Count  Candy in Quarter Q1 to Q4?,Count,Candy,NA,NA
+generate Bottom Line  Costco in Week Week14?,Bottom Line,NA,NA,Costco
+fetch Count  Caramels in Month Mar to Aug?,Count,NA,Caramels,NA
+get Gross Sales  Candy in Year 2019?,Gross Sales,Candy,NA,NA
+get Revenue  Meats in Year 2019?,Revenue,Meats,NA,NA
+fetch Bottom Line  Mayonaise in Week Week51?,Bottom Line,NA,Mayonaise,NA
+fetch Max Shipment  Albertsons/Safeway in Week Week9 to Week31?,Max Shipment,NA,NA,Albertsons/Safeway
+get Net sales  Meats in Quarter Q4?,Net sales,Meats,NA,NA
+fetch Revenue  Aldi in Week Week4 to Week29?,Revenue,NA,NA,Aldi
+display Bottom Line  Sauces in Year 2019?,Bottom Line,Sauces,NA,NA
+display Bottom Line  Aldi in Year 2019?,Bottom Line,NA,NA,Aldi
+generate Revenue  Sauces in Year 2019?,Revenue,Sauces,NA,NA
+generate Net sales  UNIFI in Year 2019?,Net sales,NA,NA,UNIFI
+get Net sales  Caramels in Year 2019?,Net sales,NA,Caramels,NA
+generate Revenue  Meats in Year 2019?,Revenue,Meats,NA,NA
+generate Bottom Line  Albertsons/Safeway in Year 2019?,Bottom Line,NA,NA,Albertsons/Safeway
+get Top Line  Coffee in Year 2019?,Top Line,NA,Coffee,NA
+display Count  Enhancers in Week Week32?,Count,NA,Enhancers,NA
+generate Max Shipment  Target in Year 2019?,Max Shipment,NA,NA,Target
+get Revenue  Walmart in Week Week40?,Revenue,NA,NA,Walmart
+generate Revenue  Processed Cheese in Week Week18 to Week34?,Revenue,NA,Processed Cheese,NA
+fetch Net sales  Candy in Week Week43?,Net sales,Candy,NA,NA
+fetch Revenue  Coffee in Week Week7 to Week41?,Revenue,NA,Coffee,NA
+generate Revenue  Sauces in Quarter Q4?,Revenue,Sauces,NA,NA
+generate Net sales  Specialty Meats in Week Week2 to Week48?,Net sales,NA,Specialty Meats,NA
+display Bottom Line  Ketchup in Quarter Q3?,Bottom Line,NA,Ketchup,NA
+get Bottom Line  Meats in Month Feb to Oct?,Bottom Line,Meats,NA,NA
+generate Net sales  Sauces in Quarter Q3?,Net sales,Sauces,NA,NA
+display Gross Sales  Hot Dogs in Week Week3 to Week37?,Gross Sales,NA,Hot Dogs,NA
+fetch Count  Costco in Year 2019?,Count,NA,NA,Costco
+display Net sales  Sauces in Quarter Q2 to Q4?,Net sales,Sauces,NA,NA
+generate Top Line  Ahold in Quarter Q3?,Top Line,NA,NA,Ahold
+fetch Top Line  Costco in Month May to Dec?,Top Line,NA,NA,Costco
+display Max Shipment  Publix in Week Week4?,Max Shipment,NA,NA,Publix
+display Count  Creamers in Quarter Q1 to Q4?,Count,NA,Creamers,NA
+fetch Gross Sales  Creamers in Week Week6?,Gross Sales,NA,Creamers,NA
+display Max Shipment  Cheese in Week Week5 to Week38?,Max Shipment,Cheese,NA,NA
+generate Count  Meats in Week Week39?,Count,Meats,NA,NA
+fetch Net sales  Coffee in Month May to Nov?,Net sales,NA,Coffee,NA
+get Net sales  Bacon in Week Week9?,Net sales,NA,Bacon,NA
+display Count  Cold Cuts in Week Week8 to Week36?,Count,NA,Cold Cuts,NA
+fetch Top Line  Creamers in Week Week27?,Top Line,NA,Creamers,NA
+generate Top Line  Aldi in Month Apr to Dec?,Top Line,NA,NA,Aldi
+get Top Line  Tea in Quarter Q4?,Top Line,NA,Tea,NA
+get Top Line  Meats in Week Week17 to Week49?,Top Line,Meats,NA,NA
+get Gross Sales  Albertsons/Safeway in Year 2019?,Gross Sales,NA,NA,Albertsons/Safeway
+display Max Shipment  Meats in Quarter Q1 to Q4?,Max Shipment,Meats,NA,NA
+fetch Gross Sales  Meats in Week Week49?,Gross Sales,Meats,NA,NA
+fetch Gross Sales  Enhancers in Week Week2 to Week31?,Gross Sales,NA,Enhancers,NA
+get Max Shipment  Candy in Month Dec?,Max Shipment,Candy,NA,NA
+display Bottom Line  Bacon in Month Mar to Nov?,Bottom Line,NA,Bacon,NA
+fetch Net sales  Cold Cuts in Month Mar?,Net sales,NA,Cold Cuts,NA
+fetch Net sales  Walmart in Week Week3 to Week32?,Net sales,NA,NA,Walmart
+generate Top Line  Amazon in Month Oct?,Top Line,NA,NA,Amazon
+get Top Line  Tea in Week Week25 to Week35?,Top Line,NA,Tea,NA
+display Net sales  Albertsons/Safeway in Quarter Q2?,Net sales,NA,NA,Albertsons/Safeway
+display Net sales  Dollar General in Month May to Aug?,Net sales,NA,NA,Dollar General
+generate Net sales  Cheese in Quarter Q4?,Net sales,Cheese,NA,NA
+get Net sales  Meats in Year 2019?,Net sales,Meats,NA,NA
+fetch Count  Sauces in Quarter Q1?,Count,Sauces,NA,NA
+generate Revenue  Albertsons/Safeway in Week Week21 to Week35?,Revenue,NA,NA,Albertsons/Safeway
+fetch Max Shipment  Cheese in Week Week26?,Max Shipment,Cheese,NA,NA
+generate Revenue  Tea in Week Week4 to Week46?,Revenue,NA,Tea,NA
+get Gross Sales  Sauces in Quarter Q2?,Gross Sales,Sauces,NA,NA
+fetch Bottom Line  Meats in Month Jan to Aug?,Bottom Line,Meats,NA,NA
+get Gross Sales  BBQ in Year 2019?,Gross Sales,NA,BBQ,NA
+display Gross Sales  BBQ in Year 2019?,Gross Sales,NA,BBQ,NA
+generate Count  Sauces in Month Nov?,Count,Sauces,NA,NA
+display Top Line  Ahold in Quarter Q2 to Q4?,Top Line,NA,NA,Ahold
+get Net sales  Coffee in Month Feb?,Net sales,NA,Coffee,NA
+generate Count  Publix in Month Apr to Dec?,Count,NA,NA,Publix
+get Gross Sales  Meats in Quarter Q3?,Gross Sales,Meats,NA,NA
+generate Bottom Line  Specialty Meats in Month Jan to Oct?,Bottom Line,NA,Specialty Meats,NA
+display Bottom Line  Cheese in Quarter Q2?,Bottom Line,Cheese,NA,NA
+display Bottom Line  Candy in Quarter Q2 to Q4?,Bottom Line,Candy,NA,NA
+generate Gross Sales  Juice in Quarter Q1?,Gross Sales,NA,Juice,NA
+display Max Shipment  Processed Cheese in Month Jun to Dec?,Max Shipment,NA,Processed Cheese,NA
+generate Count  Mayonaise in Year 2019?,Count,NA,Mayonaise,NA
+fetch Revenue  Meats in Year 2019?,Revenue,Meats,NA,NA
+display Net sales  Ahold in Year 2019?,Net sales,NA,NA,Ahold
+get Revenue  Sauces in Month Feb to Sep?,Revenue,Sauces,NA,NA
+fetch Count  Ahold in Quarter Q4?,Count,NA,NA,Ahold
+get Revenue  Costco in Month Jan to Aug?,Revenue,NA,NA,Costco
+generate Gross Sales  Cheese in Week Week15?,Gross Sales,Cheese,NA,NA
+get Revenue  Dollar General in Month Apr to Aug?,Revenue,NA,NA,Dollar General
+generate Gross Sales  Hot Dogs in Year 2019?,Gross Sales,NA,Hot Dogs,NA
+generate Top Line  Caramels in Month Mar to Aug?,Top Line,NA,Caramels,NA
+fetch Bottom Line  Enhancers in Week Week30?,Bottom Line,NA,Enhancers,NA
+generate Bottom Line  Gelatin in Month Jun to Aug?,Bottom Line,NA,Gelatin,NA
+display Max Shipment  Caramels in Week Week14?,Max Shipment,NA,Caramels,NA
+fetch Net sales  Kroger in Year 2019?,Net sales,NA,NA,Kroger
+display Net sales  Target in Week Week47?,Net sales,NA,NA,Target
+generate Gross Sales  Coffee in Week Week3 to Week39?,Gross Sales,NA,Coffee,NA
+display Revenue  All others in Year 2019?,Revenue,NA,All others,NA
+get Gross Sales  Cheese in Week Week4 to Week32?,Gross Sales,Cheese,NA,NA
+generate Count  Natural Cheese in Week Week37?,Count,NA,Natural Cheese,NA
+get Revenue  Cheese in Month Mar to Nov?,Revenue,Cheese,NA,NA
+get Net sales  Tea in Month Nov?,Net sales,NA,Tea,NA
+generate Gross Sales  Sauces in Year 2019?,Gross Sales,Sauces,NA,NA
+generate Gross Sales  Shelf Stable in Year 2019?,Gross Sales,NA,Shelf Stable,NA
+generate Bottom Line  Chocolate in Year 2019?,Bottom Line,NA,Chocolate,NA
+display Net sales  Mayonaise in Month Apr?,Net sales,NA,Mayonaise,NA
+display Revenue  Ketchup in Week Week8 to Week41?,Revenue,NA,Ketchup,NA
+display Count  Amazon in Week Week3?,Count,NA,NA,Amazon
+fetch Revenue  Ahold in Year 2019?,Revenue,NA,NA,Ahold
+display Gross Sales  Bars/Snacks in Month Nov?,Gross Sales,NA,Bars/Snacks,NA
+generate Count  Albertsons/Safeway in Quarter Q1 to Q4?,Count,NA,NA,Albertsons/Safeway
+get Gross Sales  Target in Quarter Q1?,Gross Sales,NA,NA,Target
+generate Bottom Line  Juice in Month Jan to Sep?,Bottom Line,NA,Juice,NA
+fetch Max Shipment  Candy in Year 2019?,Max Shipment,Candy,NA,NA
+generate Count  Cheese in Year 2019?,Count,Cheese,NA,NA
+get Gross Sales  Cheese in Month Sep?,Gross Sales,Cheese,NA,NA
+fetch Count  Ahold in Year 2019?,Count,NA,NA,Ahold
+fetch Max Shipment  Costco in Year 2019?,Max Shipment,NA,NA,Costco
+display Gross Sales  Natural Cheese in Week Week2 to Week33?,Gross Sales,NA,Natural Cheese,NA
+get Top Line  Breakfast in Week Week6?,Top Line,Breakfast,NA,NA
+fetch Top Line  Candy in Month Apr to Dec?,Top Line,Candy,NA,NA
+generate Max Shipment  Dollar General in Week Week31?,Max Shipment,NA,NA,Dollar General
+get Gross Sales  Bars/Snacks in Quarter Q1 to Q4?,Gross Sales,NA,Bars/Snacks,NA
+display Bottom Line  Breakfast in Year 2019?,Bottom Line,Breakfast,NA,NA
+fetch Max Shipment  Walmart in Week Week4 to Week29?,Max Shipment,NA,NA,Walmart
+display Count  Dollar General in Year 2019?,Count,NA,NA,Dollar General
+generate Gross Sales  Walmart in Month May to Sep?,Gross Sales,NA,NA,Walmart
+display Net sales  Cheese in Week Week13?,Net sales,Cheese,NA,NA
+get Count  Candy in Year 2019?,Count,Candy,NA,NA
+get Bottom Line  Cheese in Month Jan?,Bottom Line,Cheese,NA,NA
+display Net sales  Target in Month May to Nov?,Net sales,NA,NA,Target
+display Gross Sales  Meats in Quarter Q4?,Gross Sales,Meats,NA,NA
+generate Max Shipment  Candy in Month Apr to Aug?,Max Shipment,Candy,NA,NA
+fetch Bottom Line  Dollar General in Week Week15?,Bottom Line,NA,NA,Dollar General
+get Bottom Line  Meats in Week Week8 to Week35?,Bottom Line,Meats,NA,NA
+fetch Net sales  Kroger in Month Feb?,Net sales,NA,NA,Kroger
+display Top Line  Sauces in Quarter Q1 to Q4?,Top Line,Sauces,NA,NA
+display Top Line  Meats in Week Week48?,Top Line,Meats,NA,NA
+display Revenue  Hot Dogs in Month Jan to Nov?,Revenue,NA,Hot Dogs,NA
+get Count  Albertsons/Safeway in Month Jan?,Count,NA,NA,Albertsons/Safeway
+fetch Top Line  Cold Cuts in Month May to Oct?,Top Line,NA,Cold Cuts,NA
+display Revenue  UNIFI in Year 2019?,Revenue,NA,NA,UNIFI
+get Max Shipment  Juice in Month Apr to Oct?,Max Shipment,NA,Juice,NA
+display Gross Sales  Sauces in Year 2019?,Gross Sales,Sauces,NA,NA
+generate Revenue  Amazon in Week Week16 to Week32?,Revenue,NA,NA,Amazon
+display Top Line  Sauces in Quarter Q4?,Top Line,Sauces,NA,NA
+generate Count  Walmart in Year 2019?,Count,NA,NA,Walmart
+generate Gross Sales  Specialty Meats in Week Week21?,Gross Sales,NA,Specialty Meats,NA
+fetch Max Shipment  Breakfast in Month Feb to Aug?,Max Shipment,Breakfast,NA,NA
+display Top Line  Enhancers in Month Nov?,Top Line,NA,Enhancers,NA
+get Net sales  Amazon in Quarter Q1 to Q4?,Net sales,NA,NA,Amazon
+get Top Line  Target in Quarter Q4?,Top Line,NA,NA,Target
+generate Bottom Line  Meats in Week Week3 to Week38?,Bottom Line,Meats,NA,NA
+generate Count  Chocolate in Quarter Q3?,Count,NA,Chocolate,NA
+fetch Top Line  Mayonaise in Year 2019?,Top Line,NA,Mayonaise,NA
+get Gross Sales  Caramels in Month Jun?,Gross Sales,NA,Caramels,NA
+display Net sales  Meats in Year 2019?,Net sales,Meats,NA,NA
+get Count  Cheese in Year 2019?,Count,Cheese,NA,NA
+get Revenue  Cheese in Year 2019?,Revenue,Cheese,NA,NA
+display Bottom Line  Juice in Month May?,Bottom Line,NA,Juice,NA
+generate Gross Sales  Hot Dogs in Month Apr to Nov?,Gross Sales,NA,Hot Dogs,NA
+display Count  Meats in Quarter Q2?,Count,Meats,NA,NA
+generate Top Line  Processed Cheese in Month Apr to Oct?,Top Line,NA,Processed Cheese,NA
+display Top Line  Candy in Week Week35?,Top Line,Candy,NA,NA
+get Max Shipment  Specialty Meats in Quarter Q1 to Q4?,Max Shipment,NA,Specialty Meats,NA
+generate Top Line  Breakfast in Year 2019?,Top Line,Breakfast,NA,NA
+fetch Max Shipment  Natural Cheese in Month Feb to Aug?,Max Shipment,NA,Natural Cheese,NA
+display Count  Chocolate in Quarter Q4?,Count,NA,Chocolate,NA
+get Count  Sauces in Month Mar to Oct?,Count,Sauces,NA,NA
+fetch Top Line  Breakfast in Quarter Q4?,Top Line,Breakfast,NA,NA
+fetch Top Line  Breakfast in Year 2019?,Top Line,Breakfast,NA,NA
+fetch Count  Candy in Month Aug?,Count,Candy,NA,NA
+generate Max Shipment  Ahold in Week Week13 to Week31?,Max Shipment,NA,NA,Ahold
+generate Bottom Line  Cheese in Week Week16?,Bottom Line,Cheese,NA,NA
+fetch Net sales  Cold Cuts in Year 2019?,Net sales,NA,Cold Cuts,NA
+generate Max Shipment  Meats in Month Dec?,Max Shipment,Meats,NA,NA
+get Top Line  Breakfast in Year 2019?,Top Line,Breakfast,NA,NA
+get Bottom Line  Amazon in Week Week12?,Bottom Line,NA,NA,Amazon
+generate Bottom Line  Sauces in Month Mar to Dec?,Bottom Line,Sauces,NA,NA
+display Gross Sales  All others in Quarter Q2?,Gross Sales,NA,All others,NA
+get Top Line  Meats in Week Week24 to Week29?,Top Line,Meats,NA,NA
+get Gross Sales  Natural Cheese in Quarter Q4?,Gross Sales,NA,Natural Cheese,NA
+get Count  Natural Cheese in Week Week4 to Week41?,Count,NA,Natural Cheese,NA
+display Revenue  Dollar General in Quarter Q4?,Revenue,NA,NA,Dollar General
+display Count  Cheese in Week Week25 to Week52?,Count,Cheese,NA,NA
+generate Revenue  Meats in Year 2019?,Revenue,Meats,NA,NA
+display Gross Sales  Gelatin in Month Mar to Sep?,Gross Sales,NA,Gelatin,NA
+get Max Shipment  Candy in Year 2019?,Max Shipment,Candy,NA,NA
+get Bottom Line  Publix in Year 2019?,Bottom Line,NA,NA,Publix
+fetch Max Shipment  Juice in Month Apr?,Max Shipment,NA,Juice,NA
+generate Bottom Line  Tea in Quarter Q2 to Q4?,Bottom Line,NA,Tea,NA
+get Gross Sales  Meats in Year 2019?,Gross Sales,Meats,NA,NA
+get Net sales  Coffee in Quarter Q1 to Q4?,Net sales,NA,Coffee,NA
+generate Top Line  Publix in Quarter Q3?,Top Line,NA,NA,Publix
+generate Top Line  Sauces in Year 2019?,Top Line,Sauces,NA,NA
+display Gross Sales  Grated in Week Week43?,Gross Sales,NA,Grated,NA
+generate Max Shipment  Cheese in Quarter Q2 to Q4?,Max Shipment,Cheese,NA,NA
+fetch Bottom Line  Shelf Stable in Year 2019?,Bottom Line,NA,Shelf Stable,NA
+get Max Shipment  BBQ in Year 2019?,Max Shipment,NA,BBQ,NA
+get Revenue  Meats in Week Week24?,Revenue,Meats,NA,NA
+generate Top Line  Kroger in Quarter Q2 to Q4?,Top Line,NA,NA,Kroger
+fetch Net sales  Aldi in Week Week33?,Net sales,NA,NA,Aldi
+fetch Gross Sales  Walmart in Week Week16 to Week30?,Gross Sales,NA,NA,Walmart
+display Max Shipment  Gelatin in Year 2019?,Max Shipment,NA,Gelatin,NA
+display Top Line  Natural Cheese in Year 2019?,Top Line,NA,Natural Cheese,NA
+generate Max Shipment  Target in Month Aug?,Max Shipment,NA,NA,Target
+get Top Line  Cheese in Month Jun to Sep?,Top Line,Cheese,NA,NA
+get Top Line  Ahold in Quarter Q3?,Top Line,NA,NA,Ahold
+generate Max Shipment  Enhancers in Quarter Q1 to Q4?,Max Shipment,NA,Enhancers,NA
+fetch Top Line  Candy in Month Sep?,Top Line,Candy,NA,NA
+display Revenue  Kroger in Year 2019?,Revenue,NA,NA,Kroger
+display Max Shipment  Breakfast in Week Week6?,Max Shipment,Breakfast,NA,NA
+display Count  UNIFI in Month Feb to Oct?,Count,NA,NA,UNIFI
+display Gross Sales  Grated in Quarter Q4?,Gross Sales,NA,Grated,NA
+generate Count  Breakfast in Month Jan to Oct?,Count,Breakfast,NA,NA
+fetch Bottom Line  Cold Cuts in Year 2019?,Bottom Line,NA,Cold Cuts,NA
+fetch Max Shipment  Sauces in Week Week7 to Week30?,Max Shipment,Sauces,NA,NA
+generate Top Line  Ketchup in Month Aug?,Top Line,NA,Ketchup,NA
+fetch Gross Sales  BBQ in Week Week6 to Week42?,Gross Sales,NA,BBQ,NA
+fetch Gross Sales  Target in Year 2019?,Gross Sales,NA,NA,Target
+get Net sales  Hard in Month May to Dec?,Net sales,NA,Hard,NA
+fetch Top Line  Kroger in Week Week48?,Top Line,NA,NA,Kroger
+generate Net sales  Processed Cheese in Year 2019?,Net sales,NA,Processed Cheese,NA
+display Bottom Line  Specialty Meats in Year 2019?,Bottom Line,NA,Specialty Meats,NA
+generate Top Line  Costco in Week Week25 to Week28?,Top Line,NA,NA,Costco
+generate Gross Sales  Publix in Year 2019?,Gross Sales,NA,NA,Publix
+generate Max Shipment  Ketchup in Month Jan to Dec?,Max Shipment,NA,Ketchup,NA
+fetch Revenue  Candy in Year 2019?,Revenue,Candy,NA,NA
+generate Gross Sales  Ahold in Week Week2 to Week46?,Gross Sales,NA,NA,Ahold
+get Top Line  Candy in Quarter Q1?,Top Line,Candy,NA,NA
+display Max Shipment  Costco in Quarter Q2 to Q4?,Max Shipment,NA,NA,Costco
+display Top Line  Albertsons/Safeway in Quarter Q1?,Top Line,NA,NA,Albertsons/Safeway
+generate Gross Sales  Amazon in Quarter Q1 to Q4?,Gross Sales,NA,NA,Amazon
+generate Bottom Line  Cold Cuts in Month May?,Bottom Line,NA,Cold Cuts,NA
+generate Count  Meats in Year 2019?,Count,Meats,NA,NA
+generate Max Shipment  Costco in Quarter Q4?,Max Shipment,NA,NA,Costco
+generate Top Line  Candy in Month Feb to Dec?,Top Line,Candy,NA,NA
+display Top Line  Ahold in Month Aug?,Top Line,NA,NA,Ahold
+fetch Gross Sales  Breakfast in Month Feb to Oct?,Gross Sales,Breakfast,NA,NA
+fetch Count  Meats in Year 2019?,Count,Meats,NA,NA
+fetch Count  Meats in Quarter Q1 to Q4?,Count,Meats,NA,NA
+get Net sales  Cheese in Year 2019?,Net sales,Cheese,NA,NA
+get Net sales  Bars/Snacks in Quarter Q1 to Q4?,Net sales,NA,Bars/Snacks,NA
+fetch Top Line  Creamers in Month Dec?,Top Line,NA,Creamers,NA
+fetch Max Shipment  Sauces in Quarter Q1 to Q4?,Max Shipment,Sauces,NA,NA
+fetch Revenue  Sauces in Quarter Q1?,Revenue,Sauces,NA,NA
+generate Net sales  Bacon in Year 2019?,Net sales,NA,Bacon,NA
+fetch Top Line  Sauces in Month Nov?,Top Line,Sauces,NA,NA
+generate Max Shipment  Breakfast in Month Apr to Dec?,Max Shipment,Breakfast,NA,NA
+generate Top Line  Dollar General in Month Aug?,Top Line,NA,NA,Dollar General
+display Revenue  Kroger in Year 2019?,Revenue,NA,NA,Kroger
+generate Count  Hot Dogs in Quarter Q4?,Count,NA,Hot Dogs,NA
+generate Top Line  Kroger in Month Mar to Dec?,Top Line,NA,NA,Kroger
+generate Gross Sales  Chocolate in Year 2019?,Gross Sales,NA,Chocolate,NA
+fetch Top Line  Breakfast in Month Apr to Aug?,Top Line,Breakfast,NA,NA
+get Net sales  Sauces in Year 2019?,Net sales,Sauces,NA,NA
+generate Revenue  Enhancers in Quarter Q2 to Q4?,Revenue,NA,Enhancers,NA
+fetch Gross Sales  BBQ in Year 2019?,Gross Sales,NA,BBQ,NA
+fetch Top Line  Candy in Week Week9 to Week37?,Top Line,Candy,NA,NA
+display Top Line  Dollar General in Quarter Q1?,Top Line,NA,NA,Dollar General
+get Bottom Line  Sauces in Quarter Q2 to Q4?,Bottom Line,Sauces,NA,NA
+get Bottom Line  Gelatin in Quarter Q4?,Bottom Line,NA,Gelatin,NA
+get Top Line  Mayonaise in Month Apr to Sep?,Top Line,NA,Mayonaise,NA
+fetch Top Line  Breakfast in Year 2019?,Top Line,Breakfast,NA,NA
+get Gross Sales  Amazon in Quarter Q1 to Q4?,Gross Sales,NA,NA,Amazon
+display Net sales  Publix in Week Week32?,Net sales,NA,NA,Publix
+display Bottom Line  Target in Week Week12 to Week35?,Bottom Line,NA,NA,Target
+generate Top Line  Natural Cheese in Year 2019?,Top Line,NA,Natural Cheese,NA
+generate Max Shipment  Cheese in Week Week9 to Week39?,Max Shipment,Cheese,NA,NA
+display Count  Breakfast in Week Week10?,Count,Breakfast,NA,NA
+fetch Top Line  Amazon in Month Jun to Oct?,Top Line,NA,NA,Amazon
+get Count  Cheese in Year 2019?,Count,Cheese,NA,NA
+display Revenue  Sauces in Week Week5 to Week51?,Revenue,Sauces,NA,NA
+display Gross Sales  Candy in Year 2019?,Gross Sales,Candy,NA,NA
+generate Max Shipment  Dollar General in Quarter Q2 to Q4?,Max Shipment,NA,NA,Dollar General
+get Max Shipment  Sauces in Year 2019?,Max Shipment,Sauces,NA,NA
+display Gross Sales  Kroger in Quarter Q2 to Q4?,Gross Sales,NA,NA,Kroger
+generate Revenue  Candy in Quarter Q4?,Revenue,Candy,NA,NA
+fetch Top Line  Aldi in Quarter Q1 to Q4?,Top Line,NA,NA,Aldi
+fetch Revenue  Candy in Week Week44?,Revenue,Candy,NA,NA
+fetch Count  UNIFI in Year 2019?,Count,NA,NA,UNIFI
+fetch Count  Breakfast in Month Sep?,Count,Breakfast,NA,NA
+display Bottom Line  Amazon in Week Week12 to Week47?,Bottom Line,NA,NA,Amazon
+get Gross Sales  Creamers in Week Week47?,Gross Sales,NA,Creamers,NA
+generate Gross Sales  Amazon in Year 2019?,Gross Sales,NA,NA,Amazon
+display Bottom Line  Mayonaise in Month Mar?,Bottom Line,NA,Mayonaise,NA
+fetch Net sales  Kroger in Week Week9 to Week36?,Net sales,NA,NA,Kroger
+generate Top Line  Specialty Meats in Year 2019?,Top Line,NA,Specialty Meats,NA
+get Gross Sales  Bacon in Quarter Q2 to Q4?,Gross Sales,NA,Bacon,NA
+display Gross Sales  Ahold in Month Jul?,Gross Sales,NA,NA,Ahold
+fetch Max Shipment  Tea in Month Apr to Aug?,Max Shipment,NA,Tea,NA
+generate Count  Publix in Month Jan?,Count,NA,NA,Publix
+display Top Line  Tea in Month May to Oct?,Top Line,NA,Tea,NA
+fetch Net sales  Meats in Year 2019?,Net sales,Meats,NA,NA
+fetch Net sales  Caramels in Week Week2 to Week30?,Net sales,NA,Caramels,NA
+fetch Bottom Line  Meats in Week Week16?,Bottom Line,Meats,NA,NA
+display Count  Mayonaise in Year 2019?,Count,NA,Mayonaise,NA
+generate Count  Caramels in Month Dec?,Count,NA,Caramels,NA
+generate Max Shipment  Natural Cheese in Quarter Q2 to Q4?,Max Shipment,NA,Natural Cheese,NA
+fetch Gross Sales  Ahold in Year 2019?,Gross Sales,NA,NA,Ahold
+get Net sales  Ketchup in Month Jan to Dec?,Net sales,NA,Ketchup,NA
+get Gross Sales  Cheese in Month May?,Gross Sales,Cheese,NA,NA
+generate Revenue  Meats in Quarter Q2 to Q4?,Revenue,Meats,NA,NA
+fetch Net sales  Cold Cuts in Month Aug?,Net sales,NA,Cold Cuts,NA
+get Max Shipment  Candy in Month Apr to Aug?,Max Shipment,Candy,NA,NA
+get Count  UNIFI in Year 2019?,Count,NA,NA,UNIFI
+generate Revenue  Ahold in Year 2019?,Revenue,NA,NA,Ahold
+display Net sales  Breakfast in Week Week42?,Net sales,Breakfast,NA,NA
+fetch Net sales  Breakfast in Month Jan to Dec?,Net sales,Breakfast,NA,NA
+fetch Top Line  Coffee in Month May?,Top Line,NA,Coffee,NA
+display Revenue  Target in Quarter Q1 to Q4?,Revenue,NA,NA,Target
+generate Bottom Line  Sauces in Year 2019?,Bottom Line,Sauces,NA,NA
+fetch Net sales  Mayonaise in Week Week10 to Week35?,Net sales,NA,Mayonaise,NA
+fetch Count  Costco in Week Week36?,Count,NA,NA,Costco
+generate Top Line  Tea in Year 2019?,Top Line,NA,Tea,NA
+fetch Bottom Line  Hot Dogs in Week Week14?,Bottom Line,NA,Hot Dogs,NA
+generate Gross Sales  Amazon in Quarter Q2 to Q4?,Gross Sales,NA,NA,Amazon
+get Gross Sales  Breakfast in Month Mar?,Gross Sales,Breakfast,NA,NA
+generate Net sales  Gelatin in Month Feb to Nov?,Net sales,NA,Gelatin,NA
+fetch Max Shipment  Grated in Year 2019?,Max Shipment,NA,Grated,NA
+generate Net sales  Candy in Week Week19 to Week39?,Net sales,Candy,NA,NA
+generate Revenue  Natural Cheese in Quarter Q3?,Revenue,NA,Natural Cheese,NA
+get Count  Aldi in Year 2019?,Count,NA,NA,Aldi
+generate Net sales  Meats in Month Jun?,Net sales,Meats,NA,NA
+generate Bottom Line  Creamers in Year 2019?,Bottom Line,NA,Creamers,NA
+generate Gross Sales  Sauces in Year 2019?,Gross Sales,Sauces,NA,NA
+generate Count  Target in Month Apr to Oct?,Count,NA,NA,Target
+get Gross Sales  Ahold in Week Week7?,Gross Sales,NA,NA,Ahold
+fetch Max Shipment  Tea in Quarter Q2 to Q4?,Max Shipment,NA,Tea,NA
+get Gross Sales  Chocolate in Quarter Q1?,Gross Sales,NA,Chocolate,NA
+fetch Gross Sales  BBQ in Week Week2 to Week28?,Gross Sales,NA,BBQ,NA
+display Net sales  Amazon in Week Week12?,Net sales,NA,NA,Amazon
+fetch Net sales  Ketchup in Month Jan to Sep?,Net sales,NA,Ketchup,NA
+generate Net sales  Cheese in Week Week18?,Net sales,Cheese,NA,NA
+display Net sales  Chocolate in Week Week20 to Week36?,Net sales,NA,Chocolate,NA
+fetch Net sales  Target in Year 2019?,Net sales,NA,NA,Target
+get Net sales  Candy in Quarter Q1 to Q4?,Net sales,Candy,NA,NA
+fetch Bottom Line  UNIFI in Week Week33?,Bottom Line,NA,NA,UNIFI
+get Bottom Line  Sauces in Month Jan to Oct?,Bottom Line,Sauces,NA,NA
+display Gross Sales  Candy in Quarter Q4?,Gross Sales,Candy,NA,NA
+get Gross Sales  Dollar General in Quarter Q2 to Q4?,Gross Sales,NA,NA,Dollar General
+display Net sales  Albertsons/Safeway in Week Week27?,Net sales,NA,NA,Albertsons/Safeway
+get Max Shipment  Ahold in Quarter Q2 to Q4?,Max Shipment,NA,NA,Ahold
+generate Top Line  Cheese in Week Week51?,Top Line,Cheese,NA,NA
+display Count  Specialty Meats in Month Jun to Aug?,Count,NA,Specialty Meats,NA
+get Net sales  Cheese in Quarter Q3?,Net sales,Cheese,NA,NA
+generate Bottom Line  Hot Dogs in Week Week4 to Week38?,Bottom Line,NA,Hot Dogs,NA
+fetch Count  Costco in Month Feb?,Count,NA,NA,Costco
+fetch Net sales  Meats in Quarter Q2 to Q4?,Net sales,Meats,NA,NA
+display Count  Caramels in Quarter Q1?,Count,NA,Caramels,NA
+display Gross Sales  Sauces in Week Week22 to Week49?,Gross Sales,Sauces,NA,NA
+generate Gross Sales  Ketchup in Month Nov?,Gross Sales,NA,Ketchup,NA
+fetch Net sales  Bars/Snacks in Week Week17 to Week44?,Net sales,NA,Bars/Snacks,NA
+get Revenue  Tea in Week Week44?,Revenue,NA,Tea,NA
+generate Top Line  Creamers in Month May to Nov?,Top Line,NA,Creamers,NA
+display Net sales  Breakfast in Week Week29?,Net sales,Breakfast,NA,NA
+display Net sales  Ketchup in Week Week7 to Week39?,Net sales,NA,Ketchup,NA
+fetch Bottom Line  Ahold in Year 2019?,Bottom Line,NA,NA,Ahold
+display Top Line  Kroger in Quarter Q2 to Q4?,Top Line,NA,NA,Kroger
+fetch Bottom Line  UNIFI in Quarter Q4?,Bottom Line,NA,NA,UNIFI
+generate Net sales  Bacon in Month Feb to Dec?,Net sales,NA,Bacon,NA
+fetch Max Shipment  Breakfast in Year 2019?,Max Shipment,Breakfast,NA,NA
+fetch Net sales  Shelf Stable in Week Week6 to Week41?,Net sales,NA,Shelf Stable,NA
+display Gross Sales  Target in Month Jul?,Gross Sales,NA,NA,Target
+display Gross Sales  Cheese in Week Week18 to Week42?,Gross Sales,Cheese,NA,NA
+get Max Shipment  Gelatin in Week Week34?,Max Shipment,NA,Gelatin,NA
+generate Count  Costco in Quarter Q2 to Q4?,Count,NA,NA,Costco
+get Count  Coffee in Quarter Q3?,Count,NA,Coffee,NA
+get Gross Sales  Dollar General in Quarter Q1 to Q4?,Gross Sales,NA,NA,Dollar General
+get Count  Shelf Stable in Quarter Q4?,Count,NA,Shelf Stable,NA
+get Max Shipment  UNIFI in Week Week22 to Week52?,Max Shipment,NA,NA,UNIFI
+display Max Shipment  Coffee in Quarter Q3?,Max Shipment,NA,Coffee,NA
+display Max Shipment  All others in Quarter Q2 to Q4?,Max Shipment,NA,All others,NA
+fetch Bottom Line  Dollar General in Week Week46?,Bottom Line,NA,NA,Dollar General
+generate Count  Ketchup in Quarter Q1 to Q4?,Count,NA,Ketchup,NA
+fetch Top Line  Ketchup in Month Jun?,Top Line,NA,Ketchup,NA
+fetch Top Line  Breakfast in Quarter Q2 to Q4?,Top Line,Breakfast,NA,NA
+generate Bottom Line  Candy in Month Jan?,Bottom Line,Candy,NA,NA
+display Revenue  Sauces in Quarter Q2 to Q4?,Revenue,Sauces,NA,NA
+get Max Shipment  Walmart in Week Week51?,Max Shipment,NA,NA,Walmart
+get Count  Cheese in Month Apr to Oct?,Count,Cheese,NA,NA
+generate Net sales  BBQ in Year 2019?,Net sales,NA,BBQ,NA
+fetch Gross Sales  Breakfast in Month Mar to Nov?,Gross Sales,Breakfast,NA,NA
+display Revenue  Costco in Quarter Q2?,Revenue,NA,NA,Costco
+fetch Gross Sales  Caramels in Month May to Aug?,Gross Sales,NA,Caramels,NA
+fetch Bottom Line  Target in Week Week29?,Bottom Line,NA,NA,Target
+get Count  Cheese in Quarter Q2 to Q4?,Count,Cheese,NA,NA
+fetch Net sales  Sauces in Quarter Q4?,Net sales,Sauces,NA,NA
+get Bottom Line  UNIFI in Month Mar to Sep?,Bottom Line,NA,NA,UNIFI
+get Revenue  Sauces in Year 2019?,Revenue,Sauces,NA,NA
+display Net sales  Hot Dogs in Quarter Q1 to Q4?,Net sales,NA,Hot Dogs,NA
+generate Net sales  Ketchup in Year 2019?,Net sales,NA,Ketchup,NA
+generate Max Shipment  Walmart in Week Week8 to Week49?,Max Shipment,NA,NA,Walmart
+get Revenue  Shelf Stable in Week Week31?,Revenue,NA,Shelf Stable,NA
+generate Gross Sales  Breakfast in Year 2019?,Gross Sales,Breakfast,NA,NA
+fetch Count  Chocolate in Quarter Q1?,Count,NA,Chocolate,NA
+display Net sales  Breakfast in Week Week10 to Week28?,Net sales,Breakfast,NA,NA
+display Revenue  Costco in Week Week44?,Revenue,NA,NA,Costco
+display Max Shipment  Candy in Week Week22 to Week37?,Max Shipment,Candy,NA,NA
+display Top Line  Sauces in Quarter Q3?,Top Line,Sauces,NA,NA
+fetch Revenue  Sauces in Year 2019?,Revenue,Sauces,NA,NA
+get Top Line  Publix in Quarter Q1?,Top Line,NA,NA,Publix
+get Bottom Line  Walmart in Month May to Aug?,Bottom Line,NA,NA,Walmart
+fetch Top Line  Bacon in Year 2019?,Top Line,NA,Bacon,NA
+generate Max Shipment  Kroger in Week Week17 to Week27?,Max Shipment,NA,NA,Kroger
+generate Net sales  Meats in Quarter Q2?,Net sales,Meats,NA,NA
+generate Max Shipment  Creamers in Quarter Q2 to Q4?,Max Shipment,NA,Creamers,NA
+display Top Line  Sauces in Month Mar?,Top Line,Sauces,NA,NA
+display Revenue  Chocolate in Quarter Q2 to Q4?,Revenue,NA,Chocolate,NA
+get Gross Sales  Ahold in Quarter Q3?,Gross Sales,NA,NA,Ahold
+generate Net sales  Juice in Year 2019?,Net sales,NA,Juice,NA
+generate Net sales  Cheese in Year 2019?,Net sales,Cheese,NA,NA
+get Top Line  Publix in Week Week11 to Week50?,Top Line,NA,NA,Publix
+fetch Revenue  Publix in Month Dec?,Revenue,NA,NA,Publix
+get Top Line  Cheese in Quarter Q1 to Q4?,Top Line,Cheese,NA,NA
+display Max Shipment  Natural Cheese in Year 2019?,Max Shipment,NA,Natural Cheese,NA
+display Top Line  BBQ in Year 2019?,Top Line,NA,BBQ,NA
+fetch Revenue  Costco in Year 2019?,Revenue,NA,NA,Costco
+get Top Line  Cheese in Quarter Q1 to Q4?,Top Line,Cheese,NA,NA
+display Gross Sales  Cold Cuts in Month Apr?,Gross Sales,NA,Cold Cuts,NA
+get Revenue  Publix in Month Feb to Oct?,Revenue,NA,NA,Publix
+fetch Top Line  Shelf Stable in Year 2019?,Top Line,NA,Shelf Stable,NA
+fetch Gross Sales  Walmart in Year 2019?,Gross Sales,NA,NA,Walmart
+display Bottom Line  Target in Month Dec?,Bottom Line,NA,NA,Target
+fetch Gross Sales  Aldi in Month Feb to Sep?,Gross Sales,NA,NA,Aldi
+fetch Net sales  BBQ in Quarter Q3?,Net sales,NA,BBQ,NA
+generate Max Shipment  Amazon in Year 2019?,Max Shipment,NA,NA,Amazon
+display Top Line  Breakfast in Week Week3?,Top Line,Breakfast,NA,NA
+fetch Bottom Line  Hot Dogs in Quarter Q2 to Q4?,Bottom Line,NA,Hot Dogs,NA
+generate Bottom Line  Creamers in Year 2019?,Bottom Line,NA,Creamers,NA
+fetch Gross Sales  Mayonaise in Month Feb to Aug?,Gross Sales,NA,Mayonaise,NA
+fetch Max Shipment  Cheese in Month Dec?,Max Shipment,Cheese,NA,NA
+display Revenue  Cheese in Month Jun to Sep?,Revenue,Cheese,NA,NA
+fetch Max Shipment  Bars/Snacks in Month Feb?,Max Shipment,NA,Bars/Snacks,NA
+get Max Shipment  Meats in Year 2019?,Max Shipment,Meats,NA,NA
+generate Revenue  Ahold in Quarter Q2?,Revenue,NA,NA,Ahold
+fetch Gross Sales  Albertsons/Safeway in Quarter Q1 to Q4?,Gross Sales,NA,NA,Albertsons/Safeway
+fetch Count  Publix in Month Dec?,Count,NA,NA,Publix
+fetch Top Line  Aldi in Quarter Q2 to Q4?,Top Line,NA,NA,Aldi
+generate Max Shipment  Walmart in Year 2019?,Max Shipment,NA,NA,Walmart
+generate Net sales  Processed Cheese in Year 2019?,Net sales,NA,Processed Cheese,NA
+get Count  Cheese in Year 2019?,Count,Cheese,NA,NA
+get Max Shipment  Candy in Week Week2 to Week27?,Max Shipment,Candy,NA,NA
+display Max Shipment  Gelatin in Year 2019?,Max Shipment,NA,Gelatin,NA
+generate Revenue  Breakfast in Month Apr to Nov?,Revenue,Breakfast,NA,NA
+fetch Count  Coffee in Quarter Q4?,Count,NA,Coffee,NA
+display Top Line  Cold Cuts in Year 2019?,Top Line,NA,Cold Cuts,NA
+get Top Line  Candy in Week Week16?,Top Line,Candy,NA,NA
+get Gross Sales  UNIFI in Month Jan to Dec?,Gross Sales,NA,NA,UNIFI
+fetch Gross Sales  Target in Month Nov?,Gross Sales,NA,NA,Target
+get Net sales  Meats in Year 2019?,Net sales,Meats,NA,NA
+fetch Bottom Line  Cold Cuts in Week Week42?,Bottom Line,NA,Cold Cuts,NA
+get Revenue  Ahold in Month May to Sep?,Revenue,NA,NA,Ahold
+fetch Revenue  Dollar General in Quarter Q2?,Revenue,NA,NA,Dollar General
+generate Count  Processed Cheese in Month Jun to Oct?,Count,NA,Processed Cheese,NA
+fetch Gross Sales  Aldi in Month Dec?,Gross Sales,NA,NA,Aldi
+fetch Count  UNIFI in Month Feb to Aug?,Count,NA,NA,UNIFI
+get Max Shipment  Sauces in Quarter Q4?,Max Shipment,Sauces,NA,NA
+generate Revenue  Bars/Snacks in Month Mar to Oct?,Revenue,NA,Bars/Snacks,NA
+fetch Count  Costco in Year 2019?,Count,NA,NA,Costco
+fetch Max Shipment  Meats in Quarter Q2 to Q4?,Max Shipment,Meats,NA,NA
+generate Net sales  Cheese in Quarter Q1?,Net sales,Cheese,NA,NA
+generate Count  Hot Dogs in Week Week18 to Week41?,Count,NA,Hot Dogs,NA
+get Net sales  Costco in Week Week24?,Net sales,NA,NA,Costco
+get Max Shipment  Tea in Year 2019?,Max Shipment,NA,Tea,NA
+fetch Count  Dollar General in Quarter Q4?,Count,NA,NA,Dollar General
+get Top Line  Sauces in Quarter Q1 to Q4?,Top Line,Sauces,NA,NA
+generate Top Line  Meats in Quarter Q4?,Top Line,Meats,NA,NA
+display Revenue  Natural Cheese in Quarter Q2 to Q4?,Revenue,NA,Natural Cheese,NA
+generate Top Line  Target in Month Oct?,Top Line,NA,NA,Target
+generate Net sales  Shelf Stable in Quarter Q2 to Q4?,Net sales,NA,Shelf Stable,NA
+get Net sales  Kroger in Week Week28?,Net sales,NA,NA,Kroger
+get Revenue  Aldi in Month Feb to Nov?,Revenue,NA,NA,Aldi
+generate Gross Sales  Enhancers in Year 2019?,Gross Sales,NA,Enhancers,NA
+generate Gross Sales  Sauces in Week Week21 to Week52?,Gross Sales,Sauces,NA,NA
+generate Count  Target in Quarter Q3?,Count,NA,NA,Target
+generate Net sales  Coffee in Week Week12 to Week42?,Net sales,NA,Coffee,NA
+display Gross Sales  Publix in Month Jan?,Gross Sales,NA,NA,Publix
+generate Bottom Line  Caramels in Month Mar to Aug?,Bottom Line,NA,Caramels,NA
+display Gross Sales  Candy in Year 2019?,Gross Sales,Candy,NA,NA
+generate Gross Sales  Candy in Month Jan to Nov?,Gross Sales,Candy,NA,NA
+display Top Line  Meats in Month Feb?,Top Line,Meats,NA,NA
+generate Count  Mayonaise in Week Week2 to Week39?,Count,NA,Mayonaise,NA
+generate Top Line  Processed Cheese in Week Week17?,Top Line,NA,Processed Cheese,NA
+fetch Count  Publix in Quarter Q1 to Q4?,Count,NA,NA,Publix
+get Count  Breakfast in Month Jan?,Count,Breakfast,NA,NA
+get Max Shipment  Cheese in Month May to Sep?,Max Shipment,Cheese,NA,NA
+display Gross Sales  Breakfast in Week Week38?,Gross Sales,Breakfast,NA,NA
+fetch Gross Sales  Juice in Week Week8 to Week50?,Gross Sales,NA,Juice,NA
+display Bottom Line  Coffee in Month Apr?,Bottom Line,NA,Coffee,NA
+display Net sales  Walmart in Quarter Q2 to Q4?,Net sales,NA,NA,Walmart
+fetch Count  Walmart in Quarter Q3?,Count,NA,NA,Walmart
+generate Gross Sales  Cheese in Month Jan to Oct?,Gross Sales,Cheese,NA,NA
+display Top Line  Gelatin in Year 2019?,Top Line,NA,Gelatin,NA
+generate Net sales  Publix in Quarter Q2 to Q4?,Net sales,NA,NA,Publix
+generate Top Line  Breakfast in Month May?,Top Line,Breakfast,NA,NA
+generate Max Shipment  Candy in Month Jan to Nov?,Max Shipment,Candy,NA,NA
+display Bottom Line  Bars/Snacks in Year 2019?,Bottom Line,NA,Bars/Snacks,NA
+display Top Line  Grated in Year 2019?,Top Line,NA,Grated,NA
+display Count  Kroger in Week Week14?,Count,NA,NA,Kroger
+generate Net sales  Cheese in Quarter Q2 to Q4?,Net sales,Cheese,NA,NA
+fetch Max Shipment  Kroger in Week Week44?,Max Shipment,NA,NA,Kroger
+fetch Net sales  Walmart in Week Week18 to Week50?,Net sales,NA,NA,Walmart
+display Count  Chocolate in Month Jan?,Count,NA,Chocolate,NA
+get Bottom Line  Kroger in Quarter Q2 to Q4?,Bottom Line,NA,NA,Kroger
+fetch Revenue  Breakfast in Quarter Q3?,Revenue,Breakfast,NA,NA
+fetch Bottom Line  Ketchup in Month Mar to Sep?,Bottom Line,NA,Ketchup,NA
+fetch Top Line  Shelf Stable in Week Week50?,Top Line,NA,Shelf Stable,NA
+generate Bottom Line  Target in Month Mar to Aug?,Bottom Line,NA,NA,Target
+display Net sales  Aldi in Month May?,Net sales,NA,NA,Aldi
+display Gross Sales  Albertsons/Safeway in Quarter Q2 to Q4?,Gross Sales,NA,NA,Albertsons/Safeway
+fetch Revenue  Hot Dogs in Quarter Q1?,Revenue,NA,Hot Dogs,NA
+fetch Top Line  Costco in Year 2019?,Top Line,NA,NA,Costco
+fetch Max Shipment  Target in Year 2019?,Max Shipment,NA,NA,Target
+fetch Max Shipment  Gelatin in Quarter Q1 to Q4?,Max Shipment,NA,Gelatin,NA
+generate Net sales  Costco in Quarter Q2?,Net sales,NA,NA,Costco
+fetch Revenue  Publix in Week Week3 to Week44?,Revenue,NA,NA,Publix
+generate Gross Sales  Kroger in Quarter Q2?,Gross Sales,NA,NA,Kroger
+display Net sales  Costco in Quarter Q2 to Q4?,Net sales,NA,NA,Costco
+fetch Max Shipment  Cheese in Week Week50?,Max Shipment,Cheese,NA,NA
+generate Count  Meats in Month Apr to Aug?,Count,Meats,NA,NA
+generate Max Shipment  Target in Quarter Q1?,Max Shipment,NA,NA,Target
+display Revenue  Aldi in Year 2019?,Revenue,NA,NA,Aldi
+get Revenue  Breakfast in Month Sep?,Revenue,Breakfast,NA,NA
+fetch Count  Specialty Meats in Month Jun to Nov?,Count,NA,Specialty Meats,NA
+get Count  Bars/Snacks in Year 2019?,Count,NA,Bars/Snacks,NA
+display Revenue  Caramels in Year 2019?,Revenue,NA,Caramels,NA
+generate Top Line  Costco in Year 2019?,Top Line,NA,NA,Costco
+get Bottom Line  Ahold in Week Week21 to Week40?,Bottom Line,NA,NA,Ahold
+get Top Line  Chocolate in Month Aug?,Top Line,NA,Chocolate,NA
+display Gross Sales  Bars/Snacks in Week Week25 to Week35?,Gross Sales,NA,Bars/Snacks,NA
+fetch Top Line  Hot Dogs in Quarter Q3?,Top Line,NA,Hot Dogs,NA
+fetch Count  Breakfast in Week Week23 to Week50?,Count,Breakfast,NA,NA
+generate Count  Processed Cheese in Year 2019?,Count,NA,Processed Cheese,NA
+display Net sales  Creamers in Year 2019?,Net sales,NA,Creamers,NA
+generate Revenue  Costco in Year 2019?,Revenue,NA,NA,Costco
+display Max Shipment  Sauces in Week Week9 to Week28?,Max Shipment,Sauces,NA,NA
+fetch Top Line  Breakfast in Year 2019?,Top Line,Breakfast,NA,NA
+get Gross Sales  Ahold in Month May to Dec?,Gross Sales,NA,NA,Ahold
+display Bottom Line  Grated in Month Oct?,Bottom Line,NA,Grated,NA
+display Gross Sales  Bacon in Month Jan to Nov?,Gross Sales,NA,Bacon,NA
+fetch Top Line  Shelf Stable in Quarter Q4?,Top Line,NA,Shelf Stable,NA
+generate Bottom Line  Cheese in Year 2019?,Bottom Line,Cheese,NA,NA
+fetch Net sales  Processed Cheese in Year 2019?,Net sales,NA,Processed Cheese,NA
+fetch Max Shipment  Costco in Week Week19 to Week33?,Max Shipment,NA,NA,Costco
+get Top Line  Candy in Year 2019?,Top Line,Candy,NA,NA
+get Bottom Line  Ketchup in Quarter Q2 to Q4?,Bottom Line,NA,Ketchup,NA
+get Net sales  Tea in Quarter Q1?,Net sales,NA,Tea,NA
+get Bottom Line  Aldi in Week Week7 to Week39?,Bottom Line,NA,NA,Aldi
+display Gross Sales  Meats in Month Apr?,Gross Sales,Meats,NA,NA
+display Max Shipment  Kroger in Year 2019?,Max Shipment,NA,NA,Kroger
+generate Revenue  Albertsons/Safeway in Month May?,Revenue,NA,NA,Albertsons/Safeway
+generate Gross Sales  Amazon in Month Jan to Dec?,Gross Sales,NA,NA,Amazon
+fetch Gross Sales  Sauces in Quarter Q2?,Gross Sales,Sauces,NA,NA
+generate Count  Tea in Month Jan to Sep?,Count,NA,Tea,NA
+get Gross Sales  Costco in Year 2019?,Gross Sales,NA,NA,Costco
+fetch Max Shipment  Cold Cuts in Year 2019?,Max Shipment,NA,Cold Cuts,NA
+get Bottom Line  Sauces in Quarter Q3?,Bottom Line,Sauces,NA,NA
+fetch Net sales  Mayonaise in Month Apr to Nov?,Net sales,NA,Mayonaise,NA
+generate Top Line  Ahold in Quarter Q4?,Top Line,NA,NA,Ahold
+fetch Revenue  Candy in Year 2019?,Revenue,Candy,NA,NA
+get Net sales  Processed Cheese in Month Sep?,Net sales,NA,Processed Cheese,NA
+display Revenue  Albertsons/Safeway in Quarter Q2 to Q4?,Revenue,NA,NA,Albertsons/Safeway
+fetch Max Shipment  Breakfast in Week Week27?,Max Shipment,Breakfast,NA,NA
+get Revenue  Enhancers in Quarter Q1 to Q4?,Revenue,NA,Enhancers,NA
+get Max Shipment  Gelatin in Quarter Q3?,Max Shipment,NA,Gelatin,NA
+generate Gross Sales  Cheese in Year 2019?,Gross Sales,Cheese,NA,NA
+generate Top Line  Aldi in Quarter Q4?,Top Line,NA,NA,Aldi
+generate Count  Cheese in Year 2019?,Count,Cheese,NA,NA
+get Count  Specialty Meats in Week Week41?,Count,NA,Specialty Meats,NA
+generate Net sales  Dollar General in Month Jan to Sep?,Net sales,NA,NA,Dollar General
+generate Max Shipment  UNIFI in Year 2019?,Max Shipment,NA,NA,UNIFI
+generate Count  Tea in Quarter Q2 to Q4?,Count,NA,Tea,NA
+display Net sales  Meats in Week Week2?,Net sales,Meats,NA,NA
+generate Gross Sales  Caramels in Year 2019?,Gross Sales,NA,Caramels,NA
+generate Bottom Line  Sauces in Month Nov?,Bottom Line,Sauces,NA,NA
+generate Bottom Line  Costco in Week Week25 to Week27?,Bottom Line,NA,NA,Costco
+display Count  Meats in Month Aug?,Count,Meats,NA,NA
+generate Net sales  Meats in Month Mar to Aug?,Net sales,Meats,NA,NA
+get Bottom Line  Creamers in Year 2019?,Bottom Line,NA,Creamers,NA
+generate Net sales  Aldi in Year 2019?,Net sales,NA,NA,Aldi
+display Max Shipment  Bars/Snacks in Week Week3?,Max Shipment,NA,Bars/Snacks,NA
+display Max Shipment  Shelf Stable in Week Week5 to Week41?,Max Shipment,NA,Shelf Stable,NA
+generate Max Shipment  Albertsons/Safeway in Year 2019?,Max Shipment,NA,NA,Albertsons/Safeway
+generate Gross Sales  Meats in Year 2019?,Gross Sales,Meats,NA,NA
+get Bottom Line  Target in Quarter Q4?,Bottom Line,NA,NA,Target
+display Bottom Line  Shelf Stable in Week Week16 to Week32?,Bottom Line,NA,Shelf Stable,NA
+get Gross Sales  Amazon in Week Week47?,Gross Sales,NA,NA,Amazon
+fetch Top Line  Dollar General in Month May to Dec?,Top Line,NA,NA,Dollar General
+display Bottom Line  Publix in Week Week50?,Bottom Line,NA,NA,Publix
+fetch Bottom Line  Publix in Year 2019?,Bottom Line,NA,NA,Publix
+generate Top Line  Dollar General in Year 2019?,Top Line,NA,NA,Dollar General
+display Top Line  Cold Cuts in Month Feb to Aug?,Top Line,NA,Cold Cuts,NA
+display Net sales  Cheese in Quarter Q4?,Net sales,Cheese,NA,NA
+fetch Count  Candy in Month Jun to Oct?,Count,Candy,NA,NA
+display Bottom Line  Kroger in Week Week14?,Bottom Line,NA,NA,Kroger
+get Net sales  Walmart in Month Jan to Dec?,Net sales,NA,NA,Walmart
+display Top Line  Publix in Month Mar?,Top Line,NA,NA,Publix
+fetch Count  Bacon in Quarter Q2 to Q4?,Count,NA,Bacon,NA
+generate Net sales  Aldi in Week Week10?,Net sales,NA,NA,Aldi
+fetch Net sales  Cheese in Week Week18 to Week33?,Net sales,Cheese,NA,NA
+generate Top Line  Grated in Year 2019?,Top Line,NA,Grated,NA
+display Bottom Line  Albertsons/Safeway in Month May to Dec?,Bottom Line,NA,NA,Albertsons/Safeway
+display Top Line  Candy in Year 2019?,Top Line,Candy,NA,NA
+get Net sales  Sauces in Quarter Q2 to Q4?,Net sales,Sauces,NA,NA
+fetch Max Shipment  Hard in Week Week29?,Max Shipment,NA,Hard,NA
+display Count  Processed Cheese in Month Mar to Dec?,Count,NA,Processed Cheese,NA
+display Revenue  Aldi in Month Jan?,Revenue,NA,NA,Aldi
+get Count  Candy in Month Apr to Oct?,Count,Candy,NA,NA
+get Max Shipment  Dollar General in Week Week8?,Max Shipment,NA,NA,Dollar General
+display Bottom Line  Meats in Quarter Q2 to Q4?,Bottom Line,Meats,NA,NA
+generate Gross Sales  Cold Cuts in Quarter Q1?,Gross Sales,NA,Cold Cuts,NA
+display Max Shipment  Walmart in Quarter Q2 to Q4?,Max Shipment,NA,NA,Walmart
+fetch Bottom Line  Sauces in Week Week15?,Bottom Line,Sauces,NA,NA
+display Revenue  Candy in Quarter Q2 to Q4?,Revenue,Candy,NA,NA
+fetch Count  Albertsons/Safeway in Month Nov?,Count,NA,NA,Albertsons/Safeway
+display Gross Sales  Amazon in Year 2019?,Gross Sales,NA,NA,Amazon
+generate Max Shipment  Meats in Year 2019?,Max Shipment,Meats,NA,NA
+get Net sales  All others in Quarter Q1 to Q4?,Net sales,NA,All others,NA
+get Top Line  Candy in Month Oct?,Top Line,Candy,NA,NA
+generate Top Line  Sauces in Year 2019?,Top Line,Sauces,NA,NA
+fetch Net sales  Sauces in Month Jun?,Net sales,Sauces,NA,NA
+generate Max Shipment  Candy in Quarter Q2 to Q4?,Max Shipment,Candy,NA,NA
+get Net sales  Candy in Year 2019?,Net sales,Candy,NA,NA
+generate Max Shipment  Target in Month Feb to Dec?,Max Shipment,NA,NA,Target
+display Max Shipment  Cheese in Week Week28?,Max Shipment,Cheese,NA,NA
+fetch Max Shipment  Meats in Year 2019?,Max Shipment,Meats,NA,NA
+generate Max Shipment  Ahold in Quarter Q4?,Max Shipment,NA,NA,Ahold
+generate Max Shipment  UNIFI in Month Feb to Aug?,Max Shipment,NA,NA,UNIFI
+get Bottom Line  Kroger in Month May?,Bottom Line,NA,NA,Kroger
+display Count  Aldi in Quarter Q1 to Q4?,Count,NA,NA,Aldi
+generate Revenue  Cheese in Quarter Q2?,Revenue,Cheese,NA,NA
+get Gross Sales  Target in Month Feb to Sep?,Gross Sales,NA,NA,Target
+display Top Line  Meats in Quarter Q4?,Top Line,Meats,NA,NA
+get Revenue  Creamers in Year 2019?,Revenue,NA,Creamers,NA
+fetch Bottom Line  Cheese in Year 2019?,Bottom Line,Cheese,NA,NA
+fetch Count  Aldi in Quarter Q1 to Q4?,Count,NA,NA,Aldi
+generate Count  Walmart in Year 2019?,Count,NA,NA,Walmart
+display Max Shipment  Albertsons/Safeway in Year 2019?,Max Shipment,NA,NA,Albertsons/Safeway
+display Max Shipment  Target in Quarter Q3?,Max Shipment,NA,NA,Target
+get Max Shipment  Candy in Month Feb to Oct?,Max Shipment,Candy,NA,NA
+fetch Top Line  BBQ in Quarter Q3?,Top Line,NA,BBQ,NA
+generate Gross Sales  Grated in Quarter Q1 to Q4?,Gross Sales,NA,Grated,NA
+generate Net sales  Gelatin in Year 2019?,Net sales,NA,Gelatin,NA
+fetch Bottom Line  Natural Cheese in Week Week5 to Week44?,Bottom Line,NA,Natural Cheese,NA
+display Count  Candy in Year 2019?,Count,Candy,NA,NA
+display Count  UNIFI in Quarter Q2 to Q4?,Count,NA,NA,UNIFI
+get Count  Ketchup in Week Week17?,Count,NA,Ketchup,NA
+generate Top Line  Target in Quarter Q2 to Q4?,Top Line,NA,NA,Target
+fetch Gross Sales  Candy in Week Week15?,Gross Sales,Candy,NA,NA
+generate Net sales  Coffee in Year 2019?,Net sales,NA,Coffee,NA
+fetch Max Shipment  Meats in Quarter Q2?,Max Shipment,Meats,NA,NA
+get Count  Ahold in Year 2019?,Count,NA,NA,Ahold
+fetch Revenue  Breakfast in Quarter Q4?,Revenue,Breakfast,NA,NA
+generate Top Line  Breakfast in Week Week15 to Week41?,Top Line,Breakfast,NA,NA
+display Revenue  Dollar General in Month Aug?,Revenue,NA,NA,Dollar General
+fetch Gross Sales  Aldi in Quarter Q1 to Q4?,Gross Sales,NA,NA,Aldi
+fetch Count  Meats in Year 2019?,Count,Meats,NA,NA
+fetch Net sales  Candy in Month Jan to Sep?,Net sales,Candy,NA,NA
+generate Max Shipment  Ahold in Quarter Q2?,Max Shipment,NA,NA,Ahold
+get Top Line  Hot Dogs in Quarter Q1 to Q4?,Top Line,NA,Hot Dogs,NA
+display Count  Meats in Week Week15?,Count,Meats,NA,NA
+display Net sales  Amazon in Week Week10 to Week36?,Net sales,NA,NA,Amazon
+display Net sales  Meats in Month Dec?,Net sales,Meats,NA,NA
+get Top Line  Specialty Meats in Month Feb to Aug?,Top Line,NA,Specialty Meats,NA
+display Count  Natural Cheese in Month Apr?,Count,NA,Natural Cheese,NA
+get Revenue  Walmart in Year 2019?,Revenue,NA,NA,Walmart
+get Net sales  Coffee in Month Apr?,Net sales,NA,Coffee,NA
+fetch Max Shipment  Ahold in Month May to Nov?,Max Shipment,NA,NA,Ahold
+generate Bottom Line  Cheese in Quarter Q3?,Bottom Line,Cheese,NA,NA
+generate Bottom Line  Sauces in Month Feb to Nov?,Bottom Line,Sauces,NA,NA
+generate Max Shipment  Costco in Week Week41?,Max Shipment,NA,NA,Costco
+generate Net sales  Cold Cuts in Quarter Q2 to Q4?,Net sales,NA,Cold Cuts,NA
+display Top Line  Meats in Year 2019?,Top Line,Meats,NA,NA
+fetch Max Shipment  Ahold in Quarter Q1 to Q4?,Max Shipment,NA,NA,Ahold
+generate Gross Sales  Enhancers in Week Week9?,Gross Sales,NA,Enhancers,NA
+fetch Revenue  Aldi in Quarter Q2 to Q4?,Revenue,NA,NA,Aldi
+fetch Gross Sales  Coffee in Quarter Q2?,Gross Sales,NA,Coffee,NA
+display Net sales  Creamers in Week Week21 to Week47?,Net sales,NA,Creamers,NA
+fetch Max Shipment  Ketchup in Week Week27?,Max Shipment,NA,Ketchup,NA
+fetch Bottom Line  Cheese in Month Apr to Dec?,Bottom Line,Cheese,NA,NA
+fetch Net sales  Sauces in Year 2019?,Net sales,Sauces,NA,NA
+generate Max Shipment  Candy in Year 2019?,Max Shipment,Candy,NA,NA
+fetch Bottom Line  Publix in Quarter Q4?,Bottom Line,NA,NA,Publix
+generate Gross Sales  Dollar General in Year 2019?,Gross Sales,NA,NA,Dollar General
+fetch Gross Sales  Sauces in Week Week28?,Gross Sales,Sauces,NA,NA
+generate Max Shipment  Candy in Year 2019?,Max Shipment,Candy,NA,NA
+fetch Net sales  Ahold in Month Jul?,Net sales,NA,NA,Ahold
+fetch Top Line  Amazon in Month May to Nov?,Top Line,NA,NA,Amazon
+get Count  Candy in Week Week36?,Count,Candy,NA,NA
+display Top Line  Cheese in Year 2019?,Top Line,Cheese,NA,NA
+fetch Count  Dollar General in Week Week22?,Count,NA,NA,Dollar General
+fetch Bottom Line  Cheese in Year 2019?,Bottom Line,Cheese,NA,NA
+fetch Gross Sales  Candy in Year 2019?,Gross Sales,Candy,NA,NA
+fetch Net sales  Hot Dogs in Year 2019?,Net sales,NA,Hot Dogs,NA
+generate Gross Sales  Publix in Month Jun?,Gross Sales,NA,NA,Publix
+get Revenue  Ahold in Year 2019?,Revenue,NA,NA,Ahold
+generate Top Line  Publix in Week Week28?,Top Line,NA,NA,Publix
+display Gross Sales  Amazon in Year 2019?,Gross Sales,NA,NA,Amazon
+get Revenue  BBQ in Quarter Q4?,Revenue,NA,BBQ,NA
+get Bottom Line  Sauces in Week Week1 to Week31?,Bottom Line,Sauces,NA,NA
+fetch Max Shipment  Breakfast in Quarter Q3?,Max Shipment,Breakfast,NA,NA
+generate Top Line  Breakfast in Year 2019?,Top Line,Breakfast,NA,NA
+fetch Max Shipment  Cheese in Week Week29?,Max Shipment,Cheese,NA,NA
+get Revenue  Target in Month Jun to Oct?,Revenue,NA,NA,Target
+display Revenue  Cheese in Week Week8?,Revenue,Cheese,NA,NA
+get Net sales  Kroger in Quarter Q1 to Q4?,Net sales,NA,NA,Kroger
+generate Top Line  Sauces in Quarter Q2?,Top Line,Sauces,NA,NA
+fetch Revenue  Meats in Quarter Q2 to Q4?,Revenue,Meats,NA,NA
+display Gross Sales  UNIFI in Quarter Q3?,Gross Sales,NA,NA,UNIFI
+generate Gross Sales  Sauces in Quarter Q1 to Q4?,Gross Sales,Sauces,NA,NA
+fetch Revenue  Ahold in Quarter Q4?,Revenue,NA,NA,Ahold
+get Count  Candy in Year 2019?,Count,Candy,NA,NA
+get Count  Caramels in Year 2019?,Count,NA,Caramels,NA
+fetch Net sales  Walmart in Year 2019?,Net sales,NA,NA,Walmart
+get Gross Sales  Kroger in Week Week42?,Gross Sales,NA,NA,Kroger
+generate Net sales  Caramels in Month Apr to Oct?,Net sales,NA,Caramels,NA
+display Bottom Line  Publix in Week Week19?,Bottom Line,NA,NA,Publix
+fetch Bottom Line  Amazon in Week Week1 to Week48?,Bottom Line,NA,NA,Amazon
+fetch Net sales  Albertsons/Safeway in Quarter Q2?,Net sales,NA,NA,Albertsons/Safeway
+display Count  Mayonaise in Quarter Q1 to Q4?,Count,NA,Mayonaise,NA
+get Top Line  Bacon in Month May?,Top Line,NA,Bacon,NA
+get Gross Sales  Cheese in Month Feb to Dec?,Gross Sales,Cheese,NA,NA
+get Max Shipment  Juice in Month Jan?,Max Shipment,NA,Juice,NA
+fetch Max Shipment  Mayonaise in Month Jun to Sep?,Max Shipment,NA,Mayonaise,NA
+generate Gross Sales  Publix in Month Mar?,Gross Sales,NA,NA,Publix
+get Max Shipment  Candy in Year 2019?,Max Shipment,Candy,NA,NA
+generate Revenue  Specialty Meats in Week Week20?,Revenue,NA,Specialty Meats,NA
+display Top Line  Mayonaise in Year 2019?,Top Line,NA,Mayonaise,NA
+display Revenue  Sauces in Week Week47?,Revenue,Sauces,NA,NA
+fetch Bottom Line  Publix in Year 2019?,Bottom Line,NA,NA,Publix
+generate Top Line  Natural Cheese in Quarter Q1?,Top Line,NA,Natural Cheese,NA
+get Gross Sales  Kroger in Week Week9 to Week43?,Gross Sales,NA,NA,Kroger
+fetch Count  Target in Week Week33?,Count,NA,NA,Target
+display Bottom Line  Aldi in Quarter Q2 to Q4?,Bottom Line,NA,NA,Aldi
+display Revenue  Cold Cuts in Week Week28?,Revenue,NA,Cold Cuts,NA
+fetch Gross Sales  Sauces in Year 2019?,Gross Sales,Sauces,NA,NA
+display Top Line  Meats in Week Week48?,Top Line,Meats,NA,NA
+display Top Line  Cheese in Week Week19 to Week30?,Top Line,Cheese,NA,NA
+fetch Count  Cheese in Month Jan?,Count,Cheese,NA,NA
+fetch Net sales  Dollar General in Quarter Q1 to Q4?,Net sales,NA,NA,Dollar General
+display Max Shipment  Tea in Year 2019?,Max Shipment,NA,Tea,NA
+generate Gross Sales  Breakfast in Year 2019?,Gross Sales,Breakfast,NA,NA
+fetch Top Line  Juice in Week Week42?,Top Line,NA,Juice,NA
+generate Gross Sales  Chocolate in Quarter Q2 to Q4?,Gross Sales,NA,Chocolate,NA
+fetch Top Line  Meats in Quarter Q2?,Top Line,Meats,NA,NA
+fetch Net sales  Sauces in Month Mar to Aug?,Net sales,Sauces,NA,NA
+get Gross Sales  Processed Cheese in Year 2019?,Gross Sales,NA,Processed Cheese,NA
+display Revenue  Cold Cuts in Week Week18 to Week41?,Revenue,NA,Cold Cuts,NA
+display Max Shipment  Breakfast in Quarter Q1?,Max Shipment,Breakfast,NA,NA
+get Count  Meats in Week Week24 to Week36?,Count,Meats,NA,NA
+generate Max Shipment  Hot Dogs in Year 2019?,Max Shipment,NA,Hot Dogs,NA
+generate Revenue  Creamers in Month Jun to Sep?,Revenue,NA,Creamers,NA
+display Top Line  Enhancers in Quarter Q1?,Top Line,NA,Enhancers,NA
+fetch Gross Sales  Breakfast in Month Jan to Dec?,Gross Sales,Breakfast,NA,NA
+display Revenue  UNIFI in Week Week13?,Revenue,NA,NA,UNIFI
+generate Revenue  Caramels in Year 2019?,Revenue,NA,Caramels,NA
+generate Bottom Line  Walmart in Year 2019?,Bottom Line,NA,NA,Walmart
+fetch Gross Sales  Cheese in Month Feb to Dec?,Gross Sales,Cheese,NA,NA
+display Count  Specialty Meats in Quarter Q1?,Count,NA,Specialty Meats,NA
+get Net sales  Walmart in Year 2019?,Net sales,NA,NA,Walmart
+display Net sales  Albertsons/Safeway in Quarter Q3?,Net sales,NA,NA,Albertsons/Safeway
+fetch Max Shipment  Bacon in Quarter Q1 to Q4?,Max Shipment,NA,Bacon,NA
+display Count  Mayonaise in Year 2019?,Count,NA,Mayonaise,NA
+generate Gross Sales  Costco in Month May to Nov?,Gross Sales,NA,NA,Costco
+get Max Shipment  Gelatin in Month Jul?,Max Shipment,NA,Gelatin,NA
+get Max Shipment  Cold Cuts in Month Jan to Sep?,Max Shipment,NA,Cold Cuts,NA
+get Max Shipment  Breakfast in Month Jun?,Max Shipment,Breakfast,NA,NA
+display Max Shipment  UNIFI in Year 2019?,Max Shipment,NA,NA,UNIFI
+generate Gross Sales  All others in Quarter Q2?,Gross Sales,NA,All others,NA
+get Gross Sales  Albertsons/Safeway in Month May to Sep?,Gross Sales,NA,NA,Albertsons/Safeway
+fetch Bottom Line  All others in Week Week47?,Bottom Line,NA,All others,NA
+generate Count  Hot Dogs in Year 2019?,Count,NA,Hot Dogs,NA
+fetch Top Line  Sauces in Week Week18?,Top Line,Sauces,NA,NA
+get Bottom Line  Costco in Year 2019?,Bottom Line,NA,NA,Costco
+generate Revenue  Processed Cheese in Quarter Q2?,Revenue,NA,Processed Cheese,NA
+fetch Bottom Line  Candy in Quarter Q2 to Q4?,Bottom Line,Candy,NA,NA
+get Gross Sales  Kroger in Month Nov?,Gross Sales,NA,NA,Kroger
+get Revenue  Gelatin in Month May to Dec?,Revenue,NA,Gelatin,NA
+fetch Revenue  Meats in Week Week36?,Revenue,Meats,NA,NA
+generate Top Line  Amazon in Quarter Q1 to Q4?,Top Line,NA,NA,Amazon
+generate Revenue  Aldi in Quarter Q2?,Revenue,NA,NA,Aldi
+display Count  Candy in Year 2019?,Count,Candy,NA,NA
+display Bottom Line  Processed Cheese in Month Feb?,Bottom Line,NA,Processed Cheese,NA
+get Max Shipment  Ketchup in Month Mar to Aug?,Max Shipment,NA,Ketchup,NA
+generate Revenue  Candy in Week Week48?,Revenue,Candy,NA,NA
+display Net sales  Enhancers in Month Feb to Oct?,Net sales,NA,Enhancers,NA
+fetch Count  BBQ in Quarter Q3?,Count,NA,BBQ,NA
+fetch Count  Candy in Week Week8 to Week51?,Count,Candy,NA,NA
+fetch Bottom Line  Cheese in Week Week21?,Bottom Line,Cheese,NA,NA
+display Bottom Line  Walmart in Year 2019?,Bottom Line,NA,NA,Walmart
+fetch Bottom Line  Cheese in Month Sep?,Bottom Line,Cheese,NA,NA
+get Count  Breakfast in Week Week19 to Week47?,Count,Breakfast,NA,NA
+fetch Revenue  Cheese in Week Week48?,Revenue,Cheese,NA,NA
+get Count  Hard in Quarter Q1 to Q4?,Count,NA,Hard,NA
+generate Gross Sales  UNIFI in Quarter Q2?,Gross Sales,NA,NA,UNIFI
+generate Net sales  UNIFI in Year 2019?,Net sales,NA,NA,UNIFI
+fetch Count  Natural Cheese in Quarter Q4?,Count,NA,Natural Cheese,NA
+fetch Top Line  Shelf Stable in Week Week13 to Week32?,Top Line,NA,Shelf Stable,NA
+generate Revenue  Juice in Month Apr?,Revenue,NA,Juice,NA
+display Net sales  Coffee in Month Jun to Dec?,Net sales,NA,Coffee,NA
+generate Top Line  Ahold in Month Nov?,Top Line,NA,NA,Ahold
+generate Net sales  Creamers in Week Week4 to Week31?,Net sales,NA,Creamers,NA
+get Bottom Line  Publix in Quarter Q4?,Bottom Line,NA,NA,Publix
+fetch Bottom Line  Shelf Stable in Year 2019?,Bottom Line,NA,Shelf Stable,NA
+get Max Shipment  Candy in Quarter Q2?,Max Shipment,Candy,NA,NA
+get Max Shipment  Creamers in Year 2019?,Max Shipment,NA,Creamers,NA
+fetch Top Line  Sauces in Year 2019?,Top Line,Sauces,NA,NA
+display Net sales  Sauces in Quarter Q2 to Q4?,Net sales,Sauces,NA,NA
+generate Top Line  BBQ in Quarter Q3?,Top Line,NA,BBQ,NA
+generate Net sales  Dollar General in Quarter Q2 to Q4?,Net sales,NA,NA,Dollar General
+display Max Shipment  Specialty Meats in Year 2019?,Max Shipment,NA,Specialty Meats,NA
+generate Net sales  UNIFI in Month Mar to Dec?,Net sales,NA,NA,UNIFI
+display Count  Mayonaise in Month Jul?,Count,NA,Mayonaise,NA
+get Revenue  UNIFI in Quarter Q2 to Q4?,Revenue,NA,NA,UNIFI
+display Top Line  Cheese in Quarter Q3?,Top Line,Cheese,NA,NA
+display Max Shipment  Creamers in Quarter Q1 to Q4?,Max Shipment,NA,Creamers,NA
+generate Revenue  Walmart in Year 2019?,Revenue,NA,NA,Walmart
+get Net sales  Coffee in Week Week14 to Week39?,Net sales,NA,Coffee,NA
+generate Net sales  Aldi in Year 2019?,Net sales,NA,NA,Aldi
+fetch Gross Sales  Costco in Week Week7 to Week39?,Gross Sales,NA,NA,Costco
+fetch Bottom Line  Sauces in Year 2019?,Bottom Line,Sauces,NA,NA
+fetch Bottom Line  Aldi in Month Jan to Aug?,Bottom Line,NA,NA,Aldi
+generate Top Line  Meats in Week Week35?,Top Line,Meats,NA,NA
+fetch Top Line  Candy in Week Week25 to Week47?,Top Line,Candy,NA,NA
+fetch Bottom Line  Bars/Snacks in Year 2019?,Bottom Line,NA,Bars/Snacks,NA
+generate Net sales  Processed Cheese in Year 2019?,Net sales,NA,Processed Cheese,NA
+fetch Max Shipment  Tea in Week Week46?,Max Shipment,NA,Tea,NA
+generate Top Line  Meats in Month Apr to Dec?,Top Line,Meats,NA,NA
+generate Revenue  Meats in Year 2019?,Revenue,Meats,NA,NA
+generate Gross Sales  Sauces in Quarter Q1 to Q4?,Gross Sales,Sauces,NA,NA
+display Gross Sales  Sauces in Quarter Q1?,Gross Sales,Sauces,NA,NA
+get Max Shipment  Aldi in Week Week21 to Week31?,Max Shipment,NA,NA,Aldi
+fetch Revenue  Caramels in Year 2019?,Revenue,NA,Caramels,NA
+get Max Shipment  Candy in Quarter Q2 to Q4?,Max Shipment,Candy,NA,NA
+generate Gross Sales  Target in Week Week5?,Gross Sales,NA,NA,Target
+get Top Line  Target in Quarter Q2 to Q4?,Top Line,NA,NA,Target
+generate Net sales  Candy in Year 2019?,Net sales,Candy,NA,NA
+fetch Top Line  Sauces in Month Jan to Aug?,Top Line,Sauces,NA,NA
+fetch Top Line  Aldi in Quarter Q2?,Top Line,NA,NA,Aldi
+display Top Line  Candy in Week Week16 to Week28?,Top Line,Candy,NA,NA
+generate Gross Sales  Dollar General in Year 2019?,Gross Sales,NA,NA,Dollar General
+fetch Net sales  Grated in Month Apr to Sep?,Net sales,NA,Grated,NA
+get Count  Cold Cuts in Week Week28?,Count,NA,Cold Cuts,NA
+fetch Revenue  Enhancers in Quarter Q1 to Q4?,Revenue,NA,Enhancers,NA
+get Top Line  Cold Cuts in Week Week2?,Top Line,NA,Cold Cuts,NA
+fetch Count  Costco in Week Week9 to Week28?,Count,NA,NA,Costco
+generate Count  Sauces in Month Sep?,Count,Sauces,NA,NA
+generate Gross Sales  Breakfast in Month Mar to Dec?,Gross Sales,Breakfast,NA,NA
+generate Count  Creamers in Week Week42?,Count,NA,Creamers,NA
+fetch Top Line  Meats in Month Jan to Dec?,Top Line,Meats,NA,NA
+display Bottom Line  Cheese in Year 2019?,Bottom Line,Cheese,NA,NA
+fetch Revenue  Ketchup in Quarter Q2 to Q4?,Revenue,NA,Ketchup,NA
+generate Revenue  UNIFI in Month Feb?,Revenue,NA,NA,UNIFI
+fetch Net sales  Chocolate in Month May to Nov?,Net sales,NA,Chocolate,NA
+generate Count  Sauces in Month Aug?,Count,Sauces,NA,NA
+get Count  Bacon in Week Week15 to Week38?,Count,NA,Bacon,NA
+display Net sales  Costco in Quarter Q4?,Net sales,NA,NA,Costco
+fetch Max Shipment  Tea in Year 2019?,Max Shipment,NA,Tea,NA
+fetch Count  Hot Dogs in Week Week33?,Count,NA,Hot Dogs,NA
+get Net sales  Creamers in Quarter Q1 to Q4?,Net sales,NA,Creamers,NA
+get Max Shipment  BBQ in Year 2019?,Max Shipment,NA,BBQ,NA
+get Top Line  Albertsons/Safeway in Month Jun to Oct?,Top Line,NA,NA,Albertsons/Safeway
+get Gross Sales  Candy in Quarter Q2?,Gross Sales,Candy,NA,NA
+get Max Shipment  Candy in Quarter Q1 to Q4?,Max Shipment,Candy,NA,NA
+display Net sales  Candy in Year 2019?,Net sales,Candy,NA,NA
+generate Top Line  Amazon in Month Feb to Aug?,Top Line,NA,NA,Amazon
+display Revenue  Meats in Quarter Q2?,Revenue,Meats,NA,NA
+display Net sales  Sauces in Year 2019?,Net sales,Sauces,NA,NA
+fetch Count  Chocolate in Month Jan?,Count,NA,Chocolate,NA
+display Revenue  Hot Dogs in Month Apr to Oct?,Revenue,NA,Hot Dogs,NA
+generate Count  Breakfast in Week Week36?,Count,Breakfast,NA,NA
+generate Bottom Line  UNIFI in Week Week7 to Week29?,Bottom Line,NA,NA,UNIFI
+generate Revenue  Gelatin in Year 2019?,Revenue,NA,Gelatin,NA
+generate Revenue  Mayonaise in Quarter Q1 to Q4?,Revenue,NA,Mayonaise,NA
+generate Net sales  Sauces in Month Aug?,Net sales,Sauces,NA,NA
+generate Max Shipment  Cheese in Quarter Q2 to Q4?,Max Shipment,Cheese,NA,NA
+display Gross Sales  Meats in Month Jul?,Gross Sales,Meats,NA,NA
+generate Net sales  Albertsons/Safeway in Week Week13 to Week48?,Net sales,NA,NA,Albertsons/Safeway
+get Top Line  Ketchup in Quarter Q3?,Top Line,NA,Ketchup,NA
+generate Bottom Line  Chocolate in Year 2019?,Bottom Line,NA,Chocolate,NA
+get Bottom Line  Breakfast in Year 2019?,Bottom Line,Breakfast,NA,NA
+display Net sales  Walmart in Quarter Q2 to Q4?,Net sales,NA,NA,Walmart
+generate Count  Coffee in Quarter Q4?,Count,NA,Coffee,NA
+display Max Shipment  Amazon in Week Week12 to Week40?,Max Shipment,NA,NA,Amazon
+generate Gross Sales  Candy in Month Jul?,Gross Sales,Candy,NA,NA
+get Max Shipment  Albertsons/Safeway in Month Mar to Sep?,Max Shipment,NA,NA,Albertsons/Safeway
+display Gross Sales  Breakfast in Week Week21?,Gross Sales,Breakfast,NA,NA
+get Net sales  BBQ in Quarter Q2 to Q4?,Net sales,NA,BBQ,NA
+get Max Shipment  Hot Dogs in Week Week9?,Max Shipment,NA,Hot Dogs,NA
+get Count  Breakfast in Week Week7 to Week51?,Count,Breakfast,NA,NA
+get Net sales  Ketchup in Week Week21?,Net sales,NA,Ketchup,NA
+display Revenue  Grated in Week Week13 to Week47?,Revenue,NA,Grated,NA
+generate Max Shipment  Cold Cuts in Quarter Q1?,Max Shipment,NA,Cold Cuts,NA
+fetch Max Shipment  Walmart in Week Week7 to Week42?,Max Shipment,NA,NA,Walmart
+fetch Net sales  Sauces in Month Dec?,Net sales,Sauces,NA,NA
+generate Gross Sales  Enhancers in Quarter Q2 to Q4?,Gross Sales,NA,Enhancers,NA
+generate Count  Meats in Year 2019?,Count,Meats,NA,NA
+generate Revenue  Publix in Week Week25 to Week28?,Revenue,NA,NA,Publix
+generate Count  Chocolate in Quarter Q1?,Count,NA,Chocolate,NA
+fetch Count  Specialty Meats in Year 2019?,Count,NA,Specialty Meats,NA
+generate Revenue  Ahold in Quarter Q2?,Revenue,NA,NA,Ahold
+get Gross Sales  Dollar General in Year 2019?,Gross Sales,NA,NA,Dollar General
+get Net sales  Target in Week Week44?,Net sales,NA,NA,Target
+display Count  Gelatin in Week Week3 to Week34?,Count,NA,Gelatin,NA
+fetch Bottom Line  Publix in Quarter Q1?,Bottom Line,NA,NA,Publix
+fetch Net sales  Hard in Year 2019?,Net sales,NA,Hard,NA
+fetch Net sales  UNIFI in Week Week38?,Net sales,NA,NA,UNIFI
+display Top Line  Breakfast in Year 2019?,Top Line,Breakfast,NA,NA
+display Count  Processed Cheese in Quarter Q1?,Count,NA,Processed Cheese,NA
+display Gross Sales  Caramels in Year 2019?,Gross Sales,NA,Caramels,NA
+get Max Shipment  Ahold in Month Apr?,Max Shipment,NA,NA,Ahold
+generate Revenue  UNIFI in Year 2019?,Revenue,NA,NA,UNIFI
+generate Gross Sales  Creamers in Month Mar?,Gross Sales,NA,Creamers,NA
+generate Net sales  Gelatin in Year 2019?,Net sales,NA,Gelatin,NA
+display Top Line  Sauces in Month Dec?,Top Line,Sauces,NA,NA
+generate Net sales  Cold Cuts in Year 2019?,Net sales,NA,Cold Cuts,NA
+fetch Max Shipment  Kroger in Week Week7?,Max Shipment,NA,NA,Kroger
+fetch Bottom Line  Tea in Month Feb to Dec?,Bottom Line,NA,Tea,NA
+fetch Revenue  Breakfast in Month Jul?,Revenue,Breakfast,NA,NA
+generate Gross Sales  Coffee in Month Apr to Nov?,Gross Sales,NA,Coffee,NA
+get Max Shipment  Mayonaise in Month May?,Max Shipment,NA,Mayonaise,NA
+generate Revenue  Hard in Year 2019?,Revenue,NA,Hard,NA
+display Top Line  Breakfast in Month Nov?,Top Line,Breakfast,NA,NA
+fetch Top Line  Meats in Week Week11 to Week52?,Top Line,Meats,NA,NA
+display Net sales  Grated in Month Nov?,Net sales,NA,Grated,NA
+display Revenue  UNIFI in Week Week24 to Week37?,Revenue,NA,NA,UNIFI
+display Revenue  Shelf Stable in Month Jan?,Revenue,NA,Shelf Stable,NA
+display Max Shipment  Walmart in Quarter Q2 to Q4?,Max Shipment,NA,NA,Walmart
+fetch Revenue  Shelf Stable in Quarter Q4?,Revenue,NA,Shelf Stable,NA
+fetch Gross Sales  Enhancers in Quarter Q1 to Q4?,Gross Sales,NA,Enhancers,NA
+generate Count  Dollar General in Month Oct?,Count,NA,NA,Dollar General
+fetch Top Line  UNIFI in Month Jan to Oct?,Top Line,NA,NA,UNIFI
+display Net sales  Albertsons/Safeway in Quarter Q3?,Net sales,NA,NA,Albertsons/Safeway
+get Top Line  Ketchup in Month May to Aug?,Top Line,NA,Ketchup,NA
+fetch Bottom Line  Tea in Year 2019?,Bottom Line,NA,Tea,NA
+fetch Gross Sales  Candy in Month Jun to Sep?,Gross Sales,Candy,NA,NA
+generate Count  Sauces in Year 2019?,Count,Sauces,NA,NA
+generate Top Line  Hot Dogs in Year 2019?,Top Line,NA,Hot Dogs,NA

@@ -1,0 +1,45 @@
+<div *ngIf="showPie">
+  <kendo-chart title="{{title}}">
+    <kendo-chart-legend position="bottom"></kendo-chart-legend>
+    <kendo-chart-series>
+      <kendo-chart-series-item [autoFit]="true"
+        type="pie"
+        [data]="data"
+        field="value"
+        categoryField="legend"
+        [labels]="{ visible: true, content: data.legend }">
+      </kendo-chart-series-item>
+    </kendo-chart-series>
+  </kendo-chart>
+</div>
+<div *ngIf="showBar">
+  <kendo-chart title="{{title}}">
+    <kendo-chart-category-axis>
+        <kendo-chart-category-axis-item [categories]="barLegends" >
+        </kendo-chart-category-axis-item>
+    </kendo-chart-category-axis>
+    <kendo-chart-series>
+      <kendo-chart-series-item type="column" [gap]="2" [spacing]=".25" [data]="barValues" [labels]="{visible: true, padding: 3}">
+      </kendo-chart-series-item>
+    </kendo-chart-series>
+  </kendo-chart>
+</div>
+<div *ngIf="showTable">
+  <div class="tabTitle">{{title}}</div>
+  <table>
+    <thead>
+      <tr>
+        <th *ngFor="let col of data[0].columns">{{col}}</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let row of data[0].rows">
+        <td *ngFor="let data of row">{{data}}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div *ngIf="showNumeric" class="numeric_value">
+  <h5>Numeric Value</h5>
+  <h1>{{data}}</h1>
+</div>

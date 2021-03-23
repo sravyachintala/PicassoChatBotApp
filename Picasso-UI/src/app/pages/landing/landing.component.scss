@@ -1,0 +1,60 @@
+.landing-wrapper {
+    height: 100vh;
+    width: 100%;
+    background: #f1f4f9 url('../../../assets/images/background_landing1.jpg') no-repeat ;
+    background-size: cover;
+
+    &__title{
+        max-width: 480px;
+        left: 8%;
+        height: 245px;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+        position: absolute;
+
+        p {
+            color: #d9d9d9;
+            font-size: 16px;
+        }
+
+        .get-started-btn {
+            margin-top: 64px;
+
+            button {
+                background-color: #dc1e34;
+                border-color: #dc1e34;
+
+                &:hover {
+                    background-color: #ff4d4f;
+                    border-color: #ff4d4f;
+                }
+            }
+
+            
+        }
+        
+    }
+}
+
+.white-text {
+    color: #fff;
+    font-size: 40px;
+}
+.gettingStarted{
+    height: 40px;
+    padding: 0 20px;
+    font-size: 16px;
+    border-radius: 40px;
+    border: none;
+    color:#fff;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.12);
+    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.045);
+    cursor: pointer;
+    line-height: 1.5;
+    position: relative;
+    display: inline-block;
+    font-weight: 400;
+    white-space: nowrap;
+    text-align: center;
+}
